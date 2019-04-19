@@ -17,7 +17,6 @@ class RssDownloader:
 		self.data = []
 		for entry in self.feed.entries:
 			entry = entry.summary
-			print(entry)
 			info = entry.split(' - ')
 			obj = {
 				'date': info[0],
@@ -32,6 +31,6 @@ class RssDownloader:
 	def get_entries(self):
 		return self.data
 
-	def save(self, file='resource/feed_data.json'):
+	def save(self, file='../resource/feed_data.json'):
 		with open(file, 'w') as f:
 			json.dump(self.data, f, indent=4)
