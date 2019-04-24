@@ -1,7 +1,8 @@
 import os
-from settings import settings
-from rss_feed.rss_downloader import RssDownloader
-from rss_feed.normalize_feed import NormalizeFeed
+
+from unirooms import settings
+from unirooms.rss_feed.rss_downloader import RssDownloader
+from unirooms.rss_feed.feed_normalizer import FeedNormalizer
 
 
 # import os
@@ -9,5 +10,5 @@ from rss_feed.normalize_feed import NormalizeFeed
 # downloader = RssDownloader(os.getenv("RSS_FEED_URL"))
 # downloader.save(os.getenv("FEED_JSON_FILE"))
 
-n = NormalizeFeed(os.getenv("FEED_JSON_FILE"))
+n = FeedNormalizer(os.getenv("FEED_JSON_FILE"))
 n.normalize()
