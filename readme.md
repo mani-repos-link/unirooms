@@ -1,11 +1,11 @@
 # Unirooms 
-   Backend of this project is writen in python. 
+Backend of a university project for the Web Engineering course. 
 
-## Installation
+## Installation (TODO)
 We recommend to use virtual environment to test this project or contribute.
 
 First of all, clone the project using the following command
-`git clone https://github.com/Phoenix404/WIE_unirooms.git` 
+`git clone https://github.com/Phoenix404/unirooms.git` 
  Or, just download. 
  
  Then extract the project in a directory. 
