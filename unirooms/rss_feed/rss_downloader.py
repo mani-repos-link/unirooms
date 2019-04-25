@@ -1,12 +1,8 @@
-from datetime import date
+import time
+from rss_normalizer import normalize_feed
 import json
 import feedparser as fp
 import os
-import time
-
-
-def get_today_date():
-    return str(date.today().strftime('%d.%m.%Y'))
 
 
 class RssDownloader:
@@ -14,7 +10,8 @@ class RssDownloader:
     DOWNLOAD_INTERVAL_IN_MINS = 60
 
     def __init__(self):
-        self._data = []
+        self._feed_entries = []
+        self._lecture_objects = []
         # TODO: get the url from the .env file:
         # self._url = os.getenv("RSS_FEED_URL")
         self._url = "http://aws.unibz.it/risweb/timetable.aspx?showtype=0&format=rss"
@@ -26,7 +23,9 @@ class RssDownloader:
         """
         while True:
             self._download()
-            self._save()
+            self._lecture_objects = normalize_feed(self._feed)
+            print(self._lecture_objects)
+            #self._save()
             self._wait()
 
     def _wait(self):
@@ -36,19 +35,11 @@ class RssDownloader:
         self._feed = fp.parse(self._url)
 
     def _parse_rss_feed(self):
-        print(self.feed)
-        for entry in self.feed.entries:
+        for entry in self._feed.entries:
             entry = entry.summary
             info = entry.split(' - ')
-            obj = {
-                'date': info[0],
-                'time': info[1],
-                'title': info[2],
-                'room': info[3] if len(info) > 4 else '',
-                'lecturer': info[4] if len(info) > 4 else ''
-            }
-            print(obj)
-            self._data.append(obj)
+            print(entry)
+            self._feed_entries.append(info)
 
     def _save(self, file='../resource/feed_data.json'):
         with open(file, 'w') as f:
