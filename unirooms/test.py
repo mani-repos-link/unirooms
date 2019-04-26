@@ -4,14 +4,13 @@
 
 import os
 from config import config
-from rss_feed import rss_downloader
+from rss_feed import RssDownloader
 
-print("print test", "Executing from", __file__)
-test_var = os.getenv("NORMALIZED_JSON_FILE")
+# print("print test", "Executing from", __file__)
+# print("print test", os.getenv("NORMALIZED_JSON_FILE"))
+# print("print test", os.getenv('project_dir'))
 
-print("print test", test_var)
-print("print test", os.getenv('project_dir'))
-
-# r = rss_downloader()  # need some refactoring in the class
+r = RssDownloader()  # need some refactoring in the class
+r.run()
 
 

@@ -1,8 +1,8 @@
-import json
 import re
 from datetime import datetime, timezone
 
-lecture_type = {'lect': 'LECT', 'lab': 'LAB', 'unknown': 'UNKNOWN'}
+# lecture_type = {'lect': 'LECT', 'lab': 'LAB', 'unknown': 'UNKNOWN'}
+lecture_type = ['LECT', 'LAB', 'EXERCISE']
 
 
 def normalize_feed(feed):
@@ -10,34 +10,34 @@ def normalize_feed(feed):
     for entry in feed.entries:
         entry = entry.summary
         entry = entry.split(' - ')
-        if len(entry) != 5:
+        if len(entry) < 5:
             continue
 
         # date and time
         date = entry[0]
         time = entry[1].split('-')
-        start_time_timestamp = _datetimestr_to_timestamp(date, time[0])
-        end_time_timestamp = _datetimestr_to_timestamp(date, time[1])
+        if len(time) < 2:  # sometimes feed returns only start hour not end hour or just end hours. So we can ignore it
+            continue
+        start_time_timestamp = _datetime_str_to_timestamp(date, time[0])
+        end_time_timestamp = _datetime_str_to_timestamp(date, time[1])
 
         # lecture title and type
-        title = entry[2][:-5].strip()
-        lect_type = entry[2][-4:]
+        lect_type = _get_lecture_type(entry[2])
+        if lect_type == "UNKNOWN":
+            continue
+
+        title = " ".join(entry[2].split(" ")[:-1])
 
         # location
-        location = entry[3][:4]
-        # Try matching string beginning with upper case letter followed
-        # by three digits. If match does not succeed, the location is
-        # probably not in Bozen se we can skip it.
-        match_location = re.match("[A-Z][0-9]{3}", location)
+        location = entry[3] + " "  # end white space is needed
+        match_location = re.match("([A-Za-z]\d.[\d]{2}\s+)|([A-Za-z][0-9]{3}\s+)", location)
         if not match_location:
             continue
         building = location[0]
         floor = location[1]
-        room = location[2:4]
-
+        room = location[2:5].replace(".", "").strip()
         # lecturer
         lecturer = entry[4]
-        print(location, ' ', lecturer)
 
         lecture_object = {
             "building": building,
@@ -53,24 +53,25 @@ def normalize_feed(feed):
     return lectures
 
 
-def _datetimestr_to_timestamp(datestr, timestr):
-    datestr = datestr.split('.')
-    day = int(datestr[0])
-    month = int(datestr[1])
-    year = int(datestr[2])
+def _datetime_str_to_timestamp(date_str, time_str):
+    date_str = date_str.split('.')
+    day = int(date_str[0])
+    month = int(date_str[1])
+    year = int(date_str[2])
 
-    timestr = timestr.split(':')
-    hour = int(timestr[0])
-    minute = int(timestr[1])
+    time_str = time_str.split(':')
+    hour = int(time_str[0])
+    minute = int(time_str[1])
 
     d = datetime(year, month, day, hour, minute, tzinfo=timezone.utc)
     return datetime.timestamp(d)
 
 
 def _get_lecture_type(title):
-    if len(title) < 8:
-        return lecture_type['unknown']
-    last_chars = (title[-4:])
-    if last_chars not in lecture_type:
-        last_chars = lecture_type['unknown']
-    return last_chars
+    words = title.split(" ")
+    if len(words) == 0:
+        return "UNKNOWN"
+    lect_type = words[-1]
+    if lect_type not in lecture_type:
+        lect_type = "UNKNOWN"
+    return lect_type
