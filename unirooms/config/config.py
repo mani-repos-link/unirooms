@@ -18,7 +18,7 @@ load_dotenv(dotenv_path=BASEDIR + '.env', verbose=True)
 
 os.environ['project_dir'] = BASEDIR
 os.environ['FEED_JSON_FILE'] = BASEDIR + os.getenv("FEED_JSON_FILE")
-os.environ['NORMALIZED_JSON_FILE'] = BASEDIR + os.getenv("NORMALIZED_JSON_FILE")
+# os.environ['NORMALIZED_JSON_FILE'] = BASEDIR + os.getenv("NORMALIZED_JSON_FILE")
 
 
 
