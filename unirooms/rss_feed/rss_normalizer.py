@@ -1,4 +1,6 @@
 import re
+import os
+import json
 from datetime import datetime, timezone
 
 # lecture_type = {'lect': 'LECT', 'lab': 'LAB', 'unknown': 'UNKNOWN'}
@@ -7,6 +9,9 @@ lecture_type = ['LECT', 'LAB', 'EXERCISE']
 
 def normalize_feed(feed):
     lectures = []
+    with open(os.getenv("ROOMS_JSON_FILE"), 'r') as f:
+        rooms_db = json.load(f)
+        f.close()
     for entry in feed.entries:
         entry = entry.summary
         entry = entry.split(' - ')
@@ -31,6 +36,7 @@ def normalize_feed(feed):
         # location
         location = entry[3] + " "  # end white space is needed
         match_location = re.match("([A-Za-z]\d.[\d]{2}\s+)|([A-Za-z][0-9]{3}\s+)", location)
+
         if not match_location:
             continue
         building = location[0]
@@ -38,6 +44,11 @@ def normalize_feed(feed):
         room = location[2:5].replace(".", "").strip()
         # lecturer
         lecturer = entry[4]
+        room_id = building + floor + "." + room
+        if room_id not in rooms_db:
+            rooms_db[room_id] = {"last_used": start_time_timestamp, "is_active": 1}  # is_active in useless. Maybe in future it will be deprected
+        else:
+            rooms_db[room_id]["last_used"] = start_time_timestamp
 
         lecture_object = {
             "building": building,
@@ -50,6 +61,9 @@ def normalize_feed(feed):
             "lecturer": lecturer
         }
         lectures.append(lecture_object)
+    with open(os.getenv("ROOMS_JSON_FILE"), 'w') as f:
+        json.dump(rooms_db, f, indent=4)
+        f.close()
     return lectures
 
 
