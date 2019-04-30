@@ -17,7 +17,7 @@ class RssDownloader:
         self._download()
         self._lecture_objects = normalize_feed(self._feed)
         # print(self._lecture_objects)
-        self._save(os.getenv("FEED_JSON_FILE"))
+        self._save(os.getenv("LECTURES_JSON_FILE"))
 
     def _download(self):
         self._feed = fp.parse(self._url)

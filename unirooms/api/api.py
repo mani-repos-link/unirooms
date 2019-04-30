@@ -9,26 +9,26 @@ app.url_map.strict_slashes = False
 api = Api(app)
 
 with open(os.getenv("FEED_JSON_FILE")) as f:
-    feed = json.load(f)
+    lectures = json.load(f)
 
 
 with open(os.getenv("ROOMS_JSON_FILE")) as f:
     room_data = json.load(f)
 
 
-class get_feed(Resource):
+class Lectures(Resource):
     def get(self):
-        return {'data': feed[:]}
+        return {'data': lectures[:]}
 
 
 # api.add_resource(get_feed, '/')
-api.add_resource(get_feed, '/api')
+api.add_resource(Lectures, '/api')
 
 
-class get_rooms_stats(Resource):
+class Rooms(Resource):
     def get(self):
         return {'data': room_data}
 
 
-api.add_resource(get_rooms_stats, '/api/rooms_stats')
+api.add_resource(Rooms, '/api/rooms_stats')
 

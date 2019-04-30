@@ -17,7 +17,7 @@ BASEDIR = os.path.abspath((str(__file__) + "/../../../")) + "/"
 load_dotenv(dotenv_path=BASEDIR + '.env', verbose=True)
 
 os.environ['project_dir'] = BASEDIR
-os.environ['FEED_JSON_FILE'] = BASEDIR + os.getenv("FEED_JSON_FILE")
+os.environ['LECTURES_JSON_FILE'] = BASEDIR + os.getenv("LECTURES_JSON_FILE")
 os.environ['ROOMS_JSON_FILE'] = BASEDIR + os.getenv("ROOMS_JSON_FILE")
 # os.environ['NORMALIZED_JSON_FILE'] = BASEDIR + os.getenv("NORMALIZED_JSON_FILE")
 
