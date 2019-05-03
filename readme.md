@@ -31,5 +31,16 @@ Unirooms project uses some third party packages. To install, those packages you 
 This command will read the necessary packages from requirement.txt file and install them in the project environment.
 
 ## Usage
-### coming soon!
+_Assumed that you are in the root directory of project and Virtual environment is active._
+
+### Run server
+In order to start the server, execute the following command: `python3 unirooms/api_runner.py`
+
+In output, there will be given a url i.e http://127.0.0.1:5000/. 
+Open that url in your browser and *voilà*.
+
+`/` endpoint will return the list of the endpoints that are available for this api.
+
+
+
 

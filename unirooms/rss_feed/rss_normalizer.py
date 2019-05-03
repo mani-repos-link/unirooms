@@ -4,14 +4,12 @@ import json
 from datetime import datetime, timezone
 
 # lecture_type = {'lect': 'LECT', 'lab': 'LAB', 'unknown': 'UNKNOWN'}
-lecture_type = ['LECT', 'LAB', 'EXERCISE']
+lecture_type = ['LECT', 'LAB', 'EXAM', 'EXERCISE']
 
 
-def normalize_feed(feed):
+def normalize_feed(feed, rooms_db):
     lectures = []
-    with open(os.getenv("ROOMS_JSON_FILE"), 'r') as f:
-        rooms_db = json.load(f)
-        f.close()
+
     for entry in feed.entries:
         entry = entry.summary
         entry = entry.split(' - ')
@@ -61,10 +59,7 @@ def normalize_feed(feed):
             "lecturer": lecturer
         }
         lectures.append(lecture_object)
-    with open(os.getenv("ROOMS_JSON_FILE"), 'w') as f:
-        json.dump(rooms_db, f, indent=4)
-        f.close()
-    return lectures
+    return lectures, rooms_db
 
 
 def _datetime_str_to_timestamp(date_str, time_str):
@@ -85,7 +80,7 @@ def _get_lecture_type(title):
     words = title.split(" ")
     if len(words) == 0:
         return "UNKNOWN"
-    lect_type = words[-1]
+    lect_type = (words[-1]).upper()
     if lect_type not in lecture_type:
         lect_type = "UNKNOWN"
     return lect_type
