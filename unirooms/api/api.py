@@ -16,24 +16,28 @@ feed_update_time = int(os.getenv("UPDATE_FEED_IN_SECONDS"))
 
 with open(os.getenv("LECTURES_JSON_FILE")) as f:
     lectures = json.load(f)
-
-
 with open(os.getenv("ROOMS_JSON_FILE")) as f:
     room_data = json.load(f)
 
-
 rd = RssDownloader()
 
-
 def update_feed():
+    global lectures
+    global room_data
     while True:
         print("Updating feed")
         rd.run()
+
+        with open(os.getenv("LECTURES_JSON_FILE")) as f:
+            lectures = json.load(f)
+        with open(os.getenv("ROOMS_JSON_FILE")) as f:
+            room_data = json.load(f)
+        
         time.sleep(feed_update_time)
 
 
 threading.Thread(target=update_feed).start()
-
+# print(lectures[0])
 
 def is_time_params_valid():
     if request.args.get('startTime') is None or request.args.get('endTime') is None:
