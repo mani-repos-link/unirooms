@@ -1,20 +1,20 @@
 """
  This python file is used only for test the scripts.
 """
-
 import os
-from config import config
-from rss_feed import RssDownloader
-from api import *
+import json
+try:
+    from unirooms.config import config
+except:
+    import config.config
 
-# print("print test", "Executing from", __file__)
-# print("print test", os.getenv("NORMALIZED_JSON_FILE"))
-# print("print test", os.getenv('project_dir'))
+from unirooms.api import api
 
-# r = RssDownloader()  # need some refactoring in the class
-# r.run()
-
-if __name__ == "main":
-    app.run()
-
+if __name__ == '__main__':
+    print("This is only DEVELOPMENT SERVER.")
+    print("\n************                 ************")
+    print("******                             ******")
+    print("*** Feed Updating thread is launched. ***")
+    print("******                             ******\n\n")
+    api.app.run(debug=False)
 

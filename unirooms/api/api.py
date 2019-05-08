@@ -3,10 +3,12 @@ import os
 import threading
 import time
 
-import api.helpers as helper
 from flask import Flask, request
 from flask_restful import Resource, Api
-from rss_feed import RssDownloader
+# import api.helpers as helper
+# from rss_feed import RssDownloader
+import unirooms.api.helpers as helper
+from unirooms.rss_feed.rss_downloader import RssDownloader
 
 app = Flask(__name__)
 app.url_map.strict_slashes = False

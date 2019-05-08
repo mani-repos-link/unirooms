@@ -2,8 +2,9 @@ import time
 import os
 import json
 import feedparser as fp
-from config import config
-from rss_feed import *
+# from config import config
+from unirooms.config import config
+from unirooms.rss_feed.rss_normalizer import *
 
 
 class RssDownloader:

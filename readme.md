@@ -36,8 +36,14 @@ _Assumed that you are in the root directory of project and Virtual environment i
 ### Run server
 In order to start the server, execute the following command: `python3 unirooms/api_runner.py`
 
+This command will start the server for development not for production.
+
 In output, there will be given a url i.e http://127.0.0.1:5000/. 
 Open that url in your browser and *voilà*.
+
+In order to run for production, you have to execute the following command: 
+`gunicorn unirooms.api.api:app` from project root directory.
+
 
 `/` endpoint will return the list of the endpoints that are available for this api.
 
