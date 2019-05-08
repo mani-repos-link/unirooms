@@ -1,1 +1,1 @@
-web: gunicorn unirooms.api_runner
+web: gunicorn unirooms.api_runner:app --log-file -
