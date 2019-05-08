@@ -1,1 +1,1 @@
-web: python unirooms/api_runner.py
+web: gunicorn unirooms.api_runner

@@ -1,3 +1,4 @@
 flask-restful==0.3.7
 python-dotenv==0.10.0
 feedparser==5.2.1
+gunicorn
