@@ -1,18 +1,22 @@
-import json
 import os
+import sys
+import json
 import threading
 import time
 
 from flask import Flask, request
 from flask_restful import Resource, Api
-# import api.helpers as helper
-# from rss_feed import RssDownloader
-try:
-    import unirooms.api.helpers as helper
-except:
-    from . import helpers as helper
 
+# adding config path to the system. So, config module will auto handle the other modules paths.
+sys.path.append(os.path.abspath(os.path.dirname(os.path.realpath(__file__))+"/../config/"))
+from config import config
+
+"""
+Now we can use unirooms as "namespace" for the modules.
+"""
+from unirooms.api.helpers import *
 from unirooms.rss_feed.rss_downloader import RssDownloader
+
 
 app = Flask(__name__)
 app.url_map.strict_slashes = False
@@ -27,13 +31,13 @@ with open(os.getenv("ROOMS_JSON_FILE")) as f:
 
 rd = RssDownloader()
 
+
 def update_feed():
     global lectures
     global room_data
     while True:
         print("Updating feed")
         rd.run()
-
         with open(os.getenv("LECTURES_JSON_FILE")) as f:
             lectures = json.load(f)
         with open(os.getenv("ROOMS_JSON_FILE")) as f:
@@ -42,8 +46,12 @@ def update_feed():
         time.sleep(feed_update_time)
 
 
-threading.Thread(target=update_feed).start()
+th = threading.Thread(target=update_feed)
+th.start()
+
 # print(lectures[0])
+print("thread is closed!")
+
 
 def is_time_params_valid():
     if request.args.get('startTime') is None or request.args.get('endTime') is None:

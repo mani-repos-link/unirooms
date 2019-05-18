@@ -1,20 +1,20 @@
 """
  This python file is used only for test the scripts.
 """
+import sys
 import os
 import json
-try:
-    from unirooms.config import config
-except:
-    import config.config
 
+sys.path.append(os.path.dirname(os.path.realpath(__file__))+"/config/")
+
+from config import config
 from unirooms.api import api
 
+
 if __name__ == '__main__':
-    print("This is only DEVELOPMENT SERVER.")
+    print("\n\nThis is only the DEVELOPMENT SERVER.")
     print("\n************                 ************")
     print("******                             ******")
     print("*** Feed Updating thread is launched. ***")
     print("******                             ******\n\n")
-    api.app.run(debug=False)
-
+    # api.app.run(debug=False)
