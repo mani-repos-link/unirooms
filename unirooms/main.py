@@ -8,7 +8,7 @@ import json
 sys.path.append(os.path.dirname(os.path.realpath(__file__))+"/config/")
 
 from config import config
-from unirooms.api import api
+from unirooms.api.api import *
 
 
 if __name__ == '__main__':
@@ -17,4 +17,4 @@ if __name__ == '__main__':
     print("******                             ******")
     print("*** Feed Updating thread is launched. ***")
     print("******                             ******\n\n")
-    # api.app.run(debug=False)
+    app.run(debug=False)

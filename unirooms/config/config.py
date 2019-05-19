@@ -32,7 +32,6 @@ if API_PATH_MODULE not in sys.path:
 if RSS_FEED_MODULE not in sys.path:
     sys.path.append(RSS_FEED_MODULE)
 
-
 # Connect the path with your '.env' file name
 load_dotenv(dotenv_path=BASEDIR + '.env', verbose=True)
 
@@ -40,5 +39,7 @@ os.environ['project_dir'] = BASEDIR
 if BASEDIR not in os.environ['LECTURES_JSON_FILE']:
     os.environ['LECTURES_JSON_FILE'] = BASEDIR + os.getenv("LECTURES_JSON_FILE")
     os.environ['ROOMS_JSON_FILE'] = BASEDIR + os.getenv("ROOMS_JSON_FILE")
+    os.environ['LECTURERS_JSON_FILE'] = BASEDIR + os.getenv("LECTURERS_JSON_FILE")
+    os.environ['LECTURE_TITLES_JSON_FILE'] = BASEDIR + os.getenv("LECTURE_TITLES_JSON_FILE")
 
 

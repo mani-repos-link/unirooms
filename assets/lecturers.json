@@ -1,0 +1,1169 @@
+{
+    "Reifer G\u00fcnther": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Seminar 3: Business Practices for Design & Eco-Social Innovation"
+        ]
+    },
+    "Montali Marco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Research methods PhD-Montali"
+        ]
+    },
+    "Kaniovskyi Yuriy": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1 27042 Mathematics for PPE M1+M2"
+        ]
+    },
+    "Maraner Paolo": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1 27042 Mathematics for PPE M1+M2",
+            "27002_Mathematics for Economists_M2_Group 1",
+            "27002_Mathematics for Economists_M2_Group 2"
+        ]
+    },
+    "Longo Edoardo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Chemometric approaches to study the chemical and sensory markers of food processing",
+            "Microbiologia Agroambientale e Industrie Agrarie"
+        ]
+    },
+    "Schrage Carola": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1 27042 Mathematics for PPE M1+M2"
+        ]
+    },
+    "Hamel Andreas Heinrich": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1 27042 Mathematics for PPE M1+M2"
+        ]
+    },
+    "Cristani Marco": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Data Curation M2: Data Profiling",
+            "Data Curation M2: Data Profiling Lab"
+        ]
+    },
+    "Bertotti Maria Letizia": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Analisi Matematica II"
+        ]
+    },
+    "Gauly Matthias": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Agricultural Systems in Mountan Areas_Livestock management in mountain aereas",
+            "Zoologie"
+        ]
+    },
+    "Baratieri Marco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Fisica Tecnica",
+            "Energetics"
+        ]
+    },
+    "Baggio Paolo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Building HVAC Systems"
+        ]
+    },
+    "Xiao Guohui": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Real-Time Big Data Processing",
+            "Real-Time Big Data Processing Lab"
+        ]
+    },
+    "Scampicchio Matteo Mario": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Reaction kinetics in food processing"
+        ]
+    },
+    "Zerbe Stefan": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Botanik_Prof.Zerbe",
+            "Ecosystem Restoration and rural appraisal_Ecosystem Restoration"
+        ]
+    },
+    "Artale Alessandro": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Formal Languages and Compilers"
+        ]
+    },
+    "Zanoni Simone": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Purchasing and Supply Management"
+        ]
+    },
+    "Cesco Stefano": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Biochemistry and physiology of agricultural plants_Group_B",
+            "Biochemistry and physiology of agricultural plants",
+            "Biochemistry and physiology of agricultural plants_Group_C",
+            "Biochemistry and physiology of agricultural plants_Group_A"
+        ]
+    },
+    "Molinari Andrea": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Information Security/System Security (EMSE-ATSE)",
+            "27006-Information Systems and Data Management"
+        ]
+    },
+    "Zanotelli Damiano": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Agricultural Systems in Mountan Areas_Mountain Agriculture"
+        ]
+    },
+    "Borgianni Yuri": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Disegno e Metodi dell' Ingegneria Industriale_L-9"
+        ]
+    },
+    "Di Cagno Raffaella": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "The natural microbial starters for innovation and authenticity "
+        ]
+    },
+    "Tokarchuk Oksana": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Introduzione all'intelligenza emotiva"
+        ]
+    },
+    "Peratoner Giovanni": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Silviculture and grassland management"
+        ]
+    },
+    "Cagol Marco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Italiano Tecnico"
+        ]
+    },
+    "Muhasilovic Medzid": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Advanced methods for fluid machine design_Muhasilovic",
+            "Applications of fluid mechanics to energy engineering"
+        ]
+    },
+    "Ferretti Ivan": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Purchasing and Supply Management",
+            "Planning and Simulation of Production  and Logistics Systems"
+        ]
+    },
+    "Gallo Raimondo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Forest planning and protection forestry_Forest harvesting and logistics"
+        ]
+    },
+    "Moretti Matteo Maria": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Web & Media Design"
+        ]
+    },
+    "Ugur Yavuz Secil": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Design & Production"
+        ]
+    },
+    "Boselli Emanuele": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Microbiologia Agroambientale e Industrie Agrarie"
+        ]
+    },
+    "Brusetti Lorenzo": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Microbiologia Agroambientale e Industrie Agrarie"
+        ]
+    },
+    "Mimmo Tanja": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Analytische Chemie f\u00fcr Agrarprodukte und Lebensmittel"
+        ]
+    },
+    "Benini Stefano": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Chimica organica"
+        ]
+    },
+    "Larcher Michele": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Fluidmechanik"
+        ]
+    },
+    "Andreotti Carlo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Fruit Production and Viticulture"
+        ]
+    },
+    "Tkalcic Marko": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Programming Project"
+        ]
+    },
+    "Wellstein Camilla": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Nature conservation and management_Applied botany",
+            "Botanik_Alle_Studierende"
+        ]
+    },
+    "Bonacchi Massimiliano": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXAM 1-25400 Advanced Financial Statement Analysis"
+        ]
+    },
+    "Petti Luisa": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Physics"
+        ]
+    },
+    "Peer Angelika": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Physik I"
+        ]
+    },
+    "Cavosi Renata": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Technisches Deutsch",
+            "Fachsprache Deutsch"
+        ]
+    },
+    "Dallasega Patrick": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Industrieanlagen und Arbeitssicherheit"
+        ]
+    },
+    "Janes Andrea Alexander": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Project Management and Professional Ethics"
+        ]
+    },
+    "Russo Barbara": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing",
+            "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing LAB"
+        ]
+    },
+    "Boreiko Dmitri": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "E1-27205 Quantitative Finance"
+        ]
+    },
+    "Grimpe Christoph": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "29023_Paper Writing, Publication and Review Process"
+        ]
+    },
+    "Comiti Francesco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Management of mountain rivers_Hydromorphology_of_mountain_rivers",
+            "Management of mountain rivers_Flood risk mitigation"
+        ]
+    },
+    "Bottesi Omar": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Elettrotecnica/Macchine elettriche"
+        ]
+    },
+    "Calligaro Sandro": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Industrial Automation and Mechatronics II",
+            "Electric Power Conversion Equipment"
+        ]
+    },
+    "Miribung Georg": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Agrarrecht",
+            "Agricultural Economics, Policy, Agrarrecht"
+        ]
+    },
+    "Souza Cardoso Evellin Cristine": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Programming Project EX A"
+        ]
+    },
+    "Billero Riccardo": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Programming Project EX B"
+        ]
+    },
+    "Troquard Nicolas": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Fundamentals of programming"
+        ]
+    },
+    "Fischer Christian Diethard": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Sustainable development of mountain areas_Economic development of rural areas",
+            "Agricultural Economics and Policy",
+            "Sustainable development of mountain areas_Sustainable tourism and regional products",
+            "Agricultural Economics, Policy, Agrarrecht"
+        ]
+    },
+    "Gasparella Andrea": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Advanced Applications of Building Physics"
+        ]
+    },
+    "Murgia Maurizio": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXAM 1-27036 Banking and Corporate Finance"
+        ]
+    },
+    "Porello Daniele": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Game Theory PhD"
+        ]
+    },
+    "Ventura Maurizio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Silviculture_Ventura",
+            "Forest planning and protection forestry_Forest inventories"
+        ]
+    },
+    "Barbieri Verena": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Database Management Systems LAB A"
+        ]
+    },
+    "Calvanese Diego": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Data Integration Lab / Data Curation M1: Data Integration Lab"
+        ]
+    },
+    "Mazzetto Fabrizio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Rural Technology Systems"
+        ]
+    },
+    "Dign\u00f6s Anton": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Database Management Systems LAB B",
+            "Database Management Systems"
+        ]
+    },
+    "Zanker Markus": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Web and Internet Engineering"
+        ]
+    },
+    "Prior Jemma F.": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "English Specialized",
+            "English Specialized_AGR",
+            "English Specialised for Design 2 / Foreign language DES-ART 3",
+            "English Specialised for Design 1"
+        ]
+    },
+    "El Ioini Nabil": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Information Security/System Security EMSE-ATSE_LAB"
+        ]
+    },
+    "Gobbetti Marco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Food-human axis: the gut microbiome"
+        ]
+    },
+    "Rauch Erwin": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Produktionsplanung und \u2013steuerung",
+            "Planning and Simulation of Production and Logistics Systems"
+        ]
+    },
+    "Franconi Enrico": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Artificial Intelligence",
+            "Research methods PhD-Franconi"
+        ]
+    },
+    "Gorla Carlo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Machine Construction and Design"
+        ]
+    },
+    "Tillo Tammam": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Mathematics II- MOD 1- Analysis",
+            "Mathematics II- MOD 1- Analysis EX A"
+        ]
+    },
+    "Mannino Saverio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Food chemistry"
+        ]
+    },
+    "Fronza Ilenia": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Empirical Software Engineering Research (EMSE-ESER 8)",
+            "Presentation, Communication and Scientific Writing"
+        ]
+    },
+    "Susanj Boris": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Empirical Software Engineering Research (EMSE-ESER 8) "
+        ]
+    },
+    "De Bellis Maurizia": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1 -27075_ Principi e laboratorio del Diritto Amministrativo"
+        ]
+    },
+    "Ratschiller Roland": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Produktionsplanung und \u2013steuerung"
+        ]
+    },
+    "Tauber Elisabeth": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Cultural Anthropology"
+        ]
+    },
+    "Masiero Mauro": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Ecosystem Restoration and rural appraisal_Rural appraisal"
+        ]
+    },
+    "Gallo Daniel": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "German Supplementary course"
+        ]
+    },
+    "Ozaki Rivera Castillo Ana Helena": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Web and Text Mining",
+            "Web and Text Mining Lab"
+        ]
+    },
+    "Gl\u00fcher Gerhard": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "L-Diskurse zum Kulturerbe"
+        ]
+    },
+    "Persia Fabio": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Computer Systems MOD 2-Operating Systems",
+            "Computer Systems MOD 2-Operating Systems Ex A"
+        ]
+    },
+    "Widmann Brigitte": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Deutsch im Studium 1 (Design)"
+        ]
+    },
+    "Kacimi El Hassani Mouna": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Machine Learning",
+            "Machine Learning Lab"
+        ]
+    },
+    "H\u00f6ger Hans Leo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "History of Design 2"
+        ]
+    },
+    " Nickenig Christoph": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Testdaf-Pr\u00fcfung"
+        ]
+    },
+    "Carpentieri Bruno": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Mathematics II- MOD 2- Computational Math."
+        ]
+    },
+    "Tomasi Marta": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1-27064 Principi e laboratorio d. diritto pubblico e d. fonti normative"
+        ]
+    },
+    "Morandi Valentina": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Operations research"
+        ]
+    },
+    "Baroncelli Stefania": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam1-27064 Principi e laboratorio d. diritto pubblico e d. fonti normative"
+        ]
+    },
+    "Della Volpe Claudio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Electrochemical energy storage and conversion"
+        ]
+    },
+    "De Cecco Emanuela": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Storia dell'arte contemporanea 2"
+        ]
+    },
+    "Schubert Jennifer Liesbeth": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Interface Design"
+        ]
+    },
+    "Oberhammer Margit": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Deutsch im Studium 2 (Design) / Fremdsprache DES-ART 2"
+        ]
+    },
+    "Salasnich Luca": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Fisica"
+        ]
+    },
+    "Valle Laura": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "E1_27115_Diritto contrattuale",
+            "Exam2_27092_L' attivit\u00e0 contrattuale delle pubbliche ammin.(M1 + M2)",
+            "Exam 1_27003_Introduzione ordinamenti giuridici (M1 diritto pubblico + M2 diritto privato)",
+            "Exam 2_27096_Istituzioni di diritto privato (Erasmus)"
+        ]
+    },
+    "Antonello Andrea": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Advanced geomatics and environmental impact assessment_Advanced_Geomatics"
+        ]
+    },
+    "Savkovic Ognjen": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Programming Data Infrastructures",
+            "Programming Data Infrastructures Lab"
+        ]
+    },
+    "D'Auria Daniela": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Computer Systems MOD 2-Operating Systems Ex B"
+        ]
+    },
+    "Bonetti Emanuele": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Web & Communication Design"
+        ]
+    },
+    "Gigliotti Roberto": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Interior & Exhibit Design"
+        ]
+    },
+    "Schamel G\u00fcnter": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "E3-27165_Wine Economics",
+            "Exam2 27199 Public Economics",
+            "Exam2 25286 Public Economics A (PPE 5099",
+            "Exam2 27059 Public Economics"
+        ]
+    },
+    "Wang Xiaofeng": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Einf\u00fchrung in die Unternehmensf\u00fchrung II"
+        ]
+    },
+    "Lechner Christian Manfred": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Einf\u00fchrung in die Unternehmensf\u00fchrung II",
+            "L-27175 M1 Grundlagen des Entrepreneurship (Entrepr.&Unternehmensf\u00fchrung)"
+        ]
+    },
+    "Giglio Alessandra": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Italiano specialistico per Design 1"
+        ]
+    },
+    "Tagliavini Massimo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Ecologia agraria e principi di agronomia"
+        ]
+    },
+    "Prada Alessandro": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Building HVAC Systems "
+        ]
+    },
+    "Franzellin Vittorio": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "PLM Product Life Cycle Management"
+        ]
+    },
+    "Angeli Sergio": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Agricultural and Forest Entomology_Group_A",
+            "Agricultural and Forest Entomology",
+            "Agricultural and Forest Entomology_Group_B"
+        ]
+    },
+    "Borzaga Matteo": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam2_27092_L' attivit\u00e0 contrattuale delle pubbliche ammin.(M1 + M2)"
+        ]
+    },
+    "Cipolotti Giovanni Battista": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Estimo generale e speciale"
+        ]
+    },
+    "Peterlini Oskar": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam 1_27003_Introduzione ordinamenti giuridici (M1 diritto pubblico + M2 diritto privato)"
+        ]
+    },
+    "Coletti Paolo": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXAM 1- 25418 Data Analytics, Big Data and Blockchain"
+        ]
+    },
+    "Rosini Monica": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Exam 1_27003_Introduzione ordinamenti giuridici (M1 diritto pubblico + M2 diritto privato)",
+            "Exam 2_27095_Istituzioni di diritto pubblico (Erasmus)",
+            "27169_M2 Diritto delle autonomie (Diritto regionale e delle autonomie)"
+        ]
+    },
+    "Mattozzi Alvise": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Theory of media and cultural consumption"
+        ]
+    },
+    "Levi Eugenio": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Exam2 27199 Public Economics"
+        ]
+    },
+    "Ugolini Simone": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Mathematics II- MOD 1- Analysis EX B"
+        ]
+    },
+    "Rivkin Andrey": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Artificial Intelligence"
+        ]
+    },
+    "Stillman Steven Eric": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Exam2 27059 Public Economics",
+            "Exam2 27199 Public Economics",
+            "Exam2 25286 Public Economics A (PPE 5099",
+            "27065 Public Economics"
+        ]
+    },
+    "Mattuzzi Francesco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Video and Post-production"
+        ]
+    },
+    "Emanuele Otello": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Responsabilit\u00e0 giuridica e approfondimenti normativi"
+        ]
+    },
+    "Righetti Maurizio": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Interventi non strutturali di mitigazione",
+            "Advanced applications of fluid mechanics_Righetti"
+        ]
+    },
+    "Pedoth Lydia": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Aspetti di accessibilit\u00e0 sociale del rischio",
+            "Tecniche di comunicazione del rischio"
+        ]
+    },
+    "von Ellenrieder Karl Dietrich": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Mobile Robotics"
+        ]
+    },
+    "Moradi Alexander": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27001 Economics 1"
+        ]
+    },
+    "Rohloff Michael Wilhelm": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27044 Allgemeine Betriebswirtschaftslehre"
+        ]
+    },
+    "Baric Sanja": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Genetik und Nutzpflanzenzucht"
+        ]
+    },
+    "Rogna Marco": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "27200 Environmental and Resource Economics"
+        ]
+    },
+    "Aichner Thomas": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "L-27030_ Konsumentenverhalten"
+        ]
+    },
+    "De Massis Alfredo Vittorio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "L-29016 PHD Qualitative Research Methods"
+        ]
+    },
+    "Veglio Valerio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27028-International Marketing"
+        ]
+    },
+    "Feess Eberhard": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27200 Environmental and Resource Economics"
+        ]
+    },
+    "Al\u00ec Antonino Giovanni": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27048 European Law M2 (European and Public Law)"
+        ]
+    },
+    "Santos-Arteaga Francisco Javier": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27037 Economics 1 for PPE"
+        ]
+    },
+    "Poiesi Fabio": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXE-Gr1-27006 Information Systems and Data Management_Poiesi",
+            "EXE-Gr2-27006 Information Systems and Data Management_Poiesi"
+        ]
+    },
+    "Tonin Mirco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27058 Politica economica per SES"
+        ]
+    },
+    "Piber Martin Christoph": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27069 Messung der Performance im \u00f6ffentlichen Rechnungswesen"
+        ]
+    },
+    "Weissensteiner Alex": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27060 Finanzm\u00e4rkte und Institutionen f\u00fcr \u00d6S"
+        ]
+    },
+    "Tonon Giustino": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Forest planning and protection forestry_Protection forestry"
+        ]
+    },
+    "Giudici Paolo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "25404 Diritto Commerciale (corso progredito)"
+        ]
+    },
+    "Farneti Roberto": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27050 Political Science 2",
+            "27160 Theory of International Relations"
+        ]
+    },
+    "De Gennaro Ivo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27210 Principles of Philosophy 1"
+        ]
+    },
+    "Pisaturo Giuseppe Roberto": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Advanced applications of fluid mechanics"
+        ]
+    },
+    "Gunkel Marjaana": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27062  Personal und Organisation im \u00f6ffentlichen Sektor M2"
+        ]
+    },
+    "Simon Robert": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "27210 Principles of Philosophy 1"
+        ]
+    },
+    "Agstner Peter": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27085_Agstner_Diritto industriale e dei contratti bancari e finanziari"
+        ]
+    },
+    "Perona Marco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Planning and Simulation of Production  and Logistics Systems"
+        ]
+    },
+    "Raich Frieda": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "L-27013_Marketing "
+        ]
+    },
+    "Metzner-Szigeth Andreas Bernhard Josef": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Media Studies"
+        ]
+    },
+    "H\u00e4rtel Klaus Rudolf Paul": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "EXE-27013 Marketing "
+        ]
+    },
+    "Becattini Niccol\u00f2": {
+        "is_lab_teacher": true,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "CAD Fundamentals_Becattini"
+        ]
+    },
+    "Gruber Stefan": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "27011_Volkswirtschaftslehre 2"
+        ]
+    },
+    " Boscolo Cristina": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "esame: flash scrivere"
+        ]
+    },
+    "Duarte Pe\u00f1aranda German Andres": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "History and Criticism of Film and Audiovisual Media"
+        ]
+    },
+    "Graziani Stefano": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Artistic Photography"
+        ]
+    },
+    "Mainardi Marco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27026-Auditing"
+        ]
+    },
+    "Rothbucher Bernhard Heinrich": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "L_27230 Service Design"
+        ]
+    },
+    "Nickenig Christoph": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Testdaf-Pr\u00fcfung"
+        ]
+    },
+    "Boscolo Cristina": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "esame: flash scrivere"
+        ]
+    }
+}

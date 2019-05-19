@@ -42,11 +42,12 @@ def normalize_feed(feed, rooms_db):
         room = location[2:5].replace(".", "").strip()
         # lecturer
         lecturer = entry[4]
-        room_id = building + floor + "." + room
+
+        room_id = building + floor + room
         if room_id not in rooms_db:
-            rooms_db[room_id] = {"last_used": start_time_timestamp, "is_active": 1}  # is_active in useless. Maybe in future it will be deprected
+            rooms_db[room_id] = {"last_update": start_time_timestamp, "is_active": 1}  # is_active is useless. Maybe in future it will be deprected
         else:
-            rooms_db[room_id]["last_used"] = start_time_timestamp
+            rooms_db[room_id]["last_update"] = start_time_timestamp
 
         lecture_object = {
             "building": building,
