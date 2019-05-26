@@ -162,7 +162,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "The natural microbial starters for innovation and authenticity "
+            "The natural microbial starters for innovation and authenticity ",
+            "Fruit and Vegetable Fermentation"
         ]
     },
     "Tokarchuk Oksana": {
@@ -248,7 +249,10 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "Chimica organica"
+            "Chimica organica",
+            "Chimica organica_gruppo A",
+            "Chimica organica_gruppo B",
+            "Chimica organica_gruppo C"
         ]
     },
     "Larcher Michele": {
@@ -454,7 +458,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "Rural Technology Systems"
+            "Rural Technology Systems",
+            "Approcci integrati multidimensionali nelle analisi degli eventi"
         ]
     },
     "Dign\u00f6s Anton": {
@@ -767,7 +772,8 @@
         "is_lecturer": true,
         "teaching_subjects": [
             "Einf\u00fchrung in die Unternehmensf\u00fchrung II",
-            "L-27175 M1 Grundlagen des Entrepreneurship (Entrepr.&Unternehmensf\u00fchrung)"
+            "L-27175 M1 Grundlagen des Entrepreneurship (Entrepr.&Unternehmensf\u00fchrung)",
+            "27181 Entrepreneurship B LAB"
         ]
     },
     "Giglio Alessandra": {
@@ -781,7 +787,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "Ecologia agraria e principi di agronomia"
+            "Ecologia agraria e principi di agronomia",
+            "Arboricoltura generale"
         ]
     },
     "Prada Alessandro": {
@@ -793,7 +800,7 @@
     },
     "Franzellin Vittorio": {
         "is_lab_teacher": true,
-        "is_lecturer": false,
+        "is_lecturer": true,
         "teaching_subjects": [
             "PLM Product Life Cycle Management"
         ]
@@ -965,7 +972,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "27028-International Marketing"
+            "27028-International Marketing",
+            "27028_International Marketing_Presentazioni"
         ]
     },
     "Feess Eberhard": {
@@ -1164,6 +1172,49 @@
         "is_lecturer": false,
         "teaching_subjects": [
             "esame: flash scrivere"
+        ]
+    },
+    "Brutti Alessio": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXE-Gr1-27006 Information Systems and Data Management_Brutti",
+            "EXE-Gr2-27006 Information Systems and Data Management_Brutt"
+        ]
+    },
+    "Patuzzi Francesco": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Energetics"
+        ]
+    },
+    "Schirpke Uta Andrea": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Nature conservation and management_Nature conservation"
+        ]
+    },
+    "Nitti Paolo": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Lingua specialistica Italiano"
+        ]
+    },
+    "Nigro Alessandra": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Advanced methods for fluid machine design_Nigro"
+        ]
+    },
+    "Rossi Fabrizio": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27026-Auditing"
         ]
     }
 }

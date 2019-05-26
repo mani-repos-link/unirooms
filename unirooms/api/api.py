@@ -7,6 +7,8 @@ import time
 from flask import Flask, request
 from flask_restful import Resource, Api
 from flask_cors import CORS
+from datetime import datetime
+import time
 
 # adding config path to the system. So, config module will auto handle the other modules paths.
 sys.path.append(os.path.abspath(os.path.dirname(os.path.realpath(__file__))+"/../config/"))
@@ -48,11 +50,21 @@ th.start()
 
 
 def is_time_params_valid():
-    if request.args.get('startTime') is None or request.args.get('endTime') is None:
-        return False
-    if float(request.args.get('startTime')) > float(request.args.get('endTime')):
-        return False
-    return True
+    # today = datetime.today().strftime('%d/%m/%Y')
+    # today_timestamp = time.mktime(datetime.strptime(today, "%d/%m/%Y").timetuple())  # float dd/mm/2019 @ 12:00am (UTC)
+
+    if request.args.get('starttime') is not None and request.args.get('endtime') is not None:
+        if float(request.args.get('starttime')) > float(request.args.get('endtime')):
+            return False
+        return True
+
+    if request.args.get('starttime') is not None:
+        return True
+
+    if request.args.get('endtime') is not None:
+        return True
+
+    return False
 
 
 class Endpoints(Resource):
@@ -76,9 +88,9 @@ class Endpoints(Resource):
         self.data['/api/subjects/'] = "Returns the list of the subjects thought in the uni."
         self.data['/api/subject/<string:title>'] = "Returns the data about specific subject based on title."
         self.data['optionalParameters_st_et'] = {
-            "?startTime=<timestamp>&endTime=<timestamp>":
+            "?starttime=<timestamp>&endtime=<timestamp>":
                 "Moreover, you can define starttime and endtime to get the feed of specific time.",
-            "example": "/api/E/5?startTime=1556870400&endTime=1556884800"
+            "example": "/api/E/5?starttime=1556870400&endtime=1556884800"
         }
 
     def get(self):
@@ -110,12 +122,14 @@ class Buildings(Resource):
             return {}
 
         self.data = great_list["buildings"][building.upper()]
+        # http://localhost:5000/api/e?starttime=1558898272&endtime=1558908272
+        # http://localhost:5000/api/e?starttime=1558951200&endtime=1559026555
         if is_time_params_valid():
-            self.data = helper.get_by_time_timetable(
-                request.args.get('startTime'),
-                request.args.get('endTime'),
+            self.data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
                 self.data)
-        return {'data': self.data}
+        return {'data': self.data, "dat": request.args.get('starttime'), "end": request.args.get('endtime')}
 
 
 class Floors(Resource):
@@ -128,9 +142,9 @@ class Floors(Resource):
             return {}
         self.data = great_list["buildings"]["floors"][key]
         if is_time_params_valid():
-            self.data = helper.get_by_time_timetable(
-                request.args.get('startTime'),
-                request.args.get('endTime'),
+            self.data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
                 self.data)
         return {'data': self.data}
 
@@ -140,7 +154,7 @@ class Rooms(Resource):
         self.data = []
 
     def get(self, building, floor, room):
-        # self.data = helper.get_room_timetable(building.upper(), floor, room, lectures)
+        # self.data = get_room_timetable(building.upper(), floor, room, lectures)
 
         key = building.upper()+""+floor+""+room
         if key not in great_list["buildings"]["rooms"]:
@@ -148,16 +162,16 @@ class Rooms(Resource):
 
         self.data = great_list["buildings"]["rooms"][key]
         if is_time_params_valid():
-            self.data = helper.get_by_time_timetable(
-                request.args.get('startTime'),
-                request.args.get('endTime'),
+            self.data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
                 self.data)
         return {'data': self.data}
 
 
 class Lecturers(Resource):
     def get(self):
-        # self.data = helper.get_room_timetable(building.upper(), floor, room, lectures)
+        # self.data = get_room_timetable(building.upper(), floor, room, lectures)
         return {'data': great_list["lecturers"]}
 
 
@@ -175,9 +189,9 @@ class ProfessorLecture(Resource):
         for name in similar_names:
             data.append(great_list["lecturers_lectures"][name])
         if is_time_params_valid():
-            data = helper.get_by_time_timetable(
-                request.args.get('startTime'),
-                request.args.get('endTime'),
+            data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
                 data)
         return {'data': data}
 
@@ -204,9 +218,9 @@ class Subject(Resource):
         for name in similar_names:
             data.append(great_list["subjects"][name])
         if is_time_params_valid():
-            data = helper.get_by_time_timetable(
-                request.args.get('startTime'),
-                request.args.get('endTime'),
+            data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
                 data)
         return {'data': data}
 

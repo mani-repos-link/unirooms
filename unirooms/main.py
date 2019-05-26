@@ -17,4 +17,4 @@ if __name__ == '__main__':
     print("******                             ******")
     print("*** Feed Updating thread is launched. ***")
     print("******                             ******\n\n")
-    app.run(debug=False)
+    app.run(debug=True)

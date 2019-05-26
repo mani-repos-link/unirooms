@@ -111,10 +111,26 @@ def get_by_time_timetable(start_timestamp: float, end_timestamp: float, feed: li
     if len(feed) == 0:
         return []
     _lectures: List = []
-    for lecture in feed:
-        if lecture['start-timestamp'] >= float(start_timestamp) and lecture["end-timestamp"] <= float(end_timestamp):
-            _lectures.append(lecture)
-    return _lectures
+    if start_timestamp is not None and end_timestamp is not None:
+        start_timestamp = float(start_timestamp)
+        end_timestamp = float(end_timestamp)
+        for lecture in feed:
+            if lecture['start-timestamp'] >= start_timestamp and lecture["end-timestamp"]<=end_timestamp:
+                _lectures.append(lecture)
+        return _lectures
+    else:
+        if start_timestamp is not None:
+            start_timestamp = float(start_timestamp)
+            for lecture in feed:
+                if lecture['start-timestamp'] >= start_timestamp:
+                    _lectures.append(lecture)
+            return _lectures
+        else:
+            end_timestamp = float(end_timestamp)
+            for lecture in feed:
+                if lecture['end-timestamp'] >= end_timestamp:
+                    _lectures.append(lecture)
+            return _lectures
 
 
 def get_fresh_timetable_data():
