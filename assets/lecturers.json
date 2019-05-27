@@ -170,7 +170,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "Introduzione all'intelligenza emotiva"
+            "Introduzione all'intelligenza emotiva",
+            "EXAM Introduzione all'intelligenza emotiva"
         ]
     },
     "Peratoner Giovanni": {
@@ -391,7 +392,8 @@
         "is_lab_teacher": true,
         "is_lecturer": false,
         "teaching_subjects": [
-            "Programming Project EX B"
+            "Programming Project EX B",
+            "Web and Internet Engineering LAB B"
         ]
     },
     "Troquard Nicolas": {
@@ -484,7 +486,10 @@
             "English Specialized",
             "English Specialized_AGR",
             "English Specialised for Design 2 / Foreign language DES-ART 3",
-            "English Specialised for Design 1"
+            "English Specialised for Design 1",
+            "L-27158-GrA-EFL- Spec Lang course for Eco Advanced",
+            "Foreign Language 2 MA",
+            "L-27158-GrB-EFL- Spec Lang course for Eco Advanced"
         ]
     },
     "El Ioini Nabil": {
@@ -1037,7 +1042,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "25404 Diritto Commerciale (corso progredito)"
+            "25404 Diritto Commerciale (corso progredito)",
+            "27085_PG_Diritto industriale e dei contr. bancari e finanziari"
         ]
     },
     "Farneti Roberto": {
@@ -1066,7 +1072,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "27062  Personal und Organisation im \u00f6ffentlichen Sektor M2"
+            "27062  Personal und Organisation im \u00f6ffentlichen Sektor M2",
+            "EXAM2 Intercultural communication"
         ]
     },
     "Simon Robert": {
@@ -1101,7 +1108,8 @@
         "is_lab_teacher": false,
         "is_lecturer": true,
         "teaching_subjects": [
-            "Media Studies"
+            "Media Studies",
+            "STUDIO SPACE Module \"Sociology of Space\""
         ]
     },
     "H\u00e4rtel Klaus Rudolf Paul": {
@@ -1215,6 +1223,128 @@
         "is_lecturer": true,
         "teaching_subjects": [
             "27026-Auditing"
+        ]
+    },
+    "Barile Francesco": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Web and Internet Engineering LAB A (16)"
+        ]
+    },
+    "Concli Franco": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Advanced topics on machine design_Module I Materials behaviour and machine elements"
+        ]
+    },
+    "Longo Roberto": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXE-27123 Italiano (lingua straniera) linguaggio economico base (immatr. dal 2011/12)"
+        ]
+    },
+    "Gick Wolfgang": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27011_Volkswirtschaftslehre 2"
+        ]
+    },
+    "Fedele Alessandro": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "27001 Economics 1"
+        ]
+    },
+    "Rizvi Syed Mehdi Abbas": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "Maker Lab B"
+        ]
+    },
+    "Gennari Rosella": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Maker Lab A"
+        ]
+    },
+    "Corazzini Luca": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "29021_Special Research FOCI BehDecMac"
+        ]
+    },
+    "Thuile Paul": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "K\u00fcnstlerisches Zeichnen 2D 1 und 2"
+        ]
+    },
+    "Benincasa Antonino": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Typography and Graphics GROUP F"
+        ]
+    },
+    "Sunda Anita Rani": {
+        "is_lab_teacher": true,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXE-27158-GrA1_EFL- Spec_Lang_cour_for Eco Advanced",
+            "EXE-27158-GrB1_EFL- Spec_Lang_cour_for Eco Advanced",
+            "EXE-27158-GrA2_EFL- Spec_Lang_cour_for Eco Advanced",
+            "EXE-27158-GrB2_EFL- Spec_Lang_cour_for Eco Advanced"
+        ]
+    },
+    "Mariacher Christian": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Typography and Graphics GROUP E"
+        ]
+    },
+    "Schuster Barbara": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXAM Geb\u00e4rdensprache f\u00fcr P\u00e4dagogInnen"
+        ]
+    },
+    "Thaler Thomas": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "Analisi costi-benefici degli interventi Thaler"
+        ]
+    },
+    "Dalla Via Nicola": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27161 Financial Statement Analysis OPT"
+        ]
+    },
+    "Summerer Kolis": {
+        "is_lab_teacher": false,
+        "is_lecturer": false,
+        "teaching_subjects": [
+            "EXAM Menschenrecht"
+        ]
+    },
+    "Algranati Cristina": {
+        "is_lab_teacher": false,
+        "is_lecturer": true,
+        "teaching_subjects": [
+            "27124 Deutsch (Fremdsprache) Grundfachsprache Wirtschaft_M-Z"
         ]
     }
 }

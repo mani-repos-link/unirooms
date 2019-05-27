@@ -6,7 +6,6 @@ from datetime import datetime, timezone
 # lecture_type = {'lect': 'LECT', 'lab': 'LAB', 'unknown': 'UNKNOWN'}
 lecture_type = ['LECT', 'LAB', 'EXAM', 'EXERCISE']
 
-
 def normalize_feed(feed, rooms_db):
     lectures = []
 
@@ -16,6 +15,16 @@ def normalize_feed(feed, rooms_db):
         if len(entry) < 5:
             continue
 
+        if len(entry) == 6:
+            tmp = entry.copy()
+            sp = entry[3].split(' ')
+            for s in sp:
+                if s.upper() in lecture_type:
+                    entry.pop(3)
+                    entry[2] = entry[2] + " " + tmp[3]
+                    break
+
+        # print(entry.summary)
         # date and time
         date = entry[0]
         time = entry[1].split('-')
@@ -30,16 +39,15 @@ def normalize_feed(feed, rooms_db):
             continue
 
         title = " ".join(entry[2].split(" ")[:-1])
-
         # location
         location = entry[3] + " "  # end white space is needed
         match_location = re.match("([A-Za-z]\d.[\d]{2}\s+)|([A-Za-z][0-9]{3}\s+)", location)
-
         if not match_location:
             continue
         building = location[0]
         floor = location[1]
         room = location[2:5].replace(".", "").strip()
+
         # lecturer
         lecturer = entry[4]
 
@@ -60,6 +68,8 @@ def normalize_feed(feed, rooms_db):
             "lecturer": lecturer
         }
         lectures.append(lecture_object)
+    
+    # print(json.dumps(lectures, indent=2))
     return lectures, rooms_db
 
 
@@ -82,6 +92,7 @@ def _get_lecture_type(title):
     if len(words) == 0:
         return "UNKNOWN"
     lect_type = (words[-1]).upper()
+
     if lect_type not in lecture_type:
         lect_type = "UNKNOWN"
-    return lect_type
+    return lect_type.strip()

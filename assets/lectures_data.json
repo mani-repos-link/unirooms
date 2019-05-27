@@ -21,16 +21,6 @@
     },
     {
         "building": "E",
-        "floor": "4",
-        "room": "20",
-        "start-timestamp": 1558947600.0,
-        "end-timestamp": 1558958400.0,
-        "title": "Research methods PhD-Franconi",
-        "type": "LECT",
-        "lecturer": "Franconi Enrico"
-    },
-    {
-        "building": "E",
         "floor": "2",
         "room": "22",
         "start-timestamp": 1558951200.0,
@@ -80,6 +70,16 @@
         "lecturer": "Baggio Paolo"
     },
     {
+        "building": "A",
+        "floor": "3",
+        "room": "17",
+        "start-timestamp": 1558965600.0,
+        "end-timestamp": 1558972800.0,
+        "title": "Programming Project EX B",
+        "type": "LAB",
+        "lecturer": "Billero Riccardo"
+    },
+    {
         "building": "C",
         "floor": "3",
         "room": "06",
@@ -88,6 +88,26 @@
         "title": "27200 Environmental and Resource Economics",
         "type": "EXERCISE",
         "lecturer": "Rogna Marco"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1558965600.0,
+        "end-timestamp": 1558972800.0,
+        "title": "L-27030_ Konsumentenverhalten",
+        "type": "LECT",
+        "lecturer": "Aichner Thomas"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1558965600.0,
+        "end-timestamp": 1558972800.0,
+        "title": "Sustainable development of mountain areas_Sustainable tourism and regional products",
+        "type": "EXERCISE",
+        "lecturer": "Fischer Christian Diethard"
     },
     {
         "building": "E",
@@ -102,32 +122,12 @@
     {
         "building": "E",
         "floor": "3",
-        "room": "12",
-        "start-timestamp": 1558965600.0,
-        "end-timestamp": 1558972800.0,
-        "title": "Genetik und Nutzpflanzenzucht",
-        "type": "LECT",
-        "lecturer": "Baric Sanja"
-    },
-    {
-        "building": "E",
-        "floor": "3",
         "room": "11",
         "start-timestamp": 1558965600.0,
         "end-timestamp": 1558972800.0,
         "title": "Purchasing and Supply Management",
         "type": "LECT",
         "lecturer": "Zanoni Simone"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
-        "start-timestamp": 1558965600.0,
-        "end-timestamp": 1558972800.0,
-        "title": "L-27030_ Konsumentenverhalten",
-        "type": "LECT",
-        "lecturer": "Aichner Thomas"
     },
     {
         "building": "E",
@@ -138,16 +138,6 @@
         "title": "Real-Time Big Data Processing",
         "type": "LECT",
         "lecturer": "Xiao Guohui"
-    },
-    {
-        "building": "A",
-        "floor": "3",
-        "room": "17",
-        "start-timestamp": 1558965600.0,
-        "end-timestamp": 1558972800.0,
-        "title": "Programming Project EX B",
-        "type": "LAB",
-        "lecturer": "Billero Riccardo"
     },
     {
         "building": "E",
@@ -180,14 +170,14 @@
         "lecturer": "Bertotti Maria Letizia"
     },
     {
-        "building": "E",
-        "floor": "5",
-        "room": "21",
+        "building": "C",
+        "floor": "1",
+        "room": "06",
         "start-timestamp": 1558965600.0,
         "end-timestamp": 1558972800.0,
-        "title": "Sustainable development of mountain areas_Sustainable tourism and regional products",
-        "type": "EXERCISE",
-        "lecturer": "Fischer Christian Diethard"
+        "title": "STUDIO SPACE Module \"Sociology of Space\"",
+        "type": "LECT",
+        "lecturer": "Metzner-Szigeth Andreas Bernhard Josef"
     },
     {
         "building": "A",
@@ -198,6 +188,16 @@
         "title": "Programming Project EX A",
         "type": "LAB",
         "lecturer": "Souza Cardoso Evellin Cristine"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "12",
+        "start-timestamp": 1558965600.0,
+        "end-timestamp": 1558972800.0,
+        "title": "Genetik und Nutzpflanzenzucht",
+        "type": "LECT",
+        "lecturer": "Baric Sanja"
     },
     {
         "building": "F",
@@ -250,6 +250,16 @@
         "lecturer": "Xiao Guohui"
     },
     {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1558972800.0,
+        "end-timestamp": 1558980000.0,
+        "title": "Web and Internet Engineering LAB A (16)",
+        "type": "LAB",
+        "lecturer": "Barile Francesco"
+    },
+    {
         "building": "D",
         "floor": "1",
         "room": "03",
@@ -258,6 +268,26 @@
         "title": "27048 European Law M2 (European and Public Law)",
         "type": "LECT",
         "lecturer": "Al\u00ec Antonino Giovanni"
+    },
+    {
+        "building": "E",
+        "floor": "2",
+        "room": "20",
+        "start-timestamp": 1558972800.0,
+        "end-timestamp": 1558980000.0,
+        "title": "Web and Internet Engineering LAB B",
+        "type": "LAB",
+        "lecturer": "Billero Riccardo"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1558972800.0,
+        "end-timestamp": 1558980000.0,
+        "title": "Advanced topics on machine design_Module I Materials behaviour and machine elements",
+        "type": "LECT",
+        "lecturer": "Concli Franco"
     },
     {
         "building": "E",
@@ -330,16 +360,6 @@
         "lecturer": "Tkalcic Marko"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "01",
-        "start-timestamp": 1558972800.0,
-        "end-timestamp": 1558980000.0,
-        "title": "27002_Mathematics for Economists_M2_Group 1",
-        "type": "LAB",
-        "lecturer": "Maraner Paolo"
-    },
-    {
         "building": "C",
         "floor": "2",
         "room": "06",
@@ -352,12 +372,22 @@
     {
         "building": "D",
         "floor": "1",
-        "room": "03",
-        "start-timestamp": 1559030400.0,
-        "end-timestamp": 1559037600.0,
-        "title": "Italiano Tecnico",
-        "type": "LECT",
-        "lecturer": "Cagol Marco"
+        "room": "01",
+        "start-timestamp": 1558972800.0,
+        "end-timestamp": 1558980000.0,
+        "title": "27002_Mathematics for Economists_M2_Group 1",
+        "type": "LAB",
+        "lecturer": "Maraner Paolo"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "23",
+        "start-timestamp": 1558980000.0,
+        "end-timestamp": 1558987200.0,
+        "title": "EXAM Introduzione all'intelligenza emotiva",
+        "type": "EXAM",
+        "lecturer": "Tokarchuk Oksana"
     },
     {
         "building": "A",
@@ -370,6 +400,16 @@
         "lecturer": "Souza Cardoso Evellin Cristine"
     },
     {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559030400.0,
+        "end-timestamp": 1559037600.0,
+        "title": "Italiano Tecnico",
+        "type": "LECT",
+        "lecturer": "Cagol Marco"
+    },
+    {
         "building": "E",
         "floor": "4",
         "room": "22",
@@ -378,26 +418,6 @@
         "title": "Analisi Matematica II",
         "type": "EXERCISE",
         "lecturer": "Bertotti Maria Letizia"
-    },
-    {
-        "building": "C",
-        "floor": "2",
-        "room": "06",
-        "start-timestamp": 1559030400.0,
-        "end-timestamp": 1559037600.0,
-        "title": "27028-International Marketing",
-        "type": "LECT",
-        "lecturer": "Veglio Valerio"
-    },
-    {
-        "building": "A",
-        "floor": "3",
-        "room": "17",
-        "start-timestamp": 1559030400.0,
-        "end-timestamp": 1559037600.0,
-        "title": "Programming Project EX B",
-        "type": "LAB",
-        "lecturer": "Billero Riccardo"
     },
     {
         "building": "D",
@@ -410,16 +430,6 @@
         "lecturer": "Tonin Mirco"
     },
     {
-        "building": "E",
-        "floor": "5",
-        "room": "20",
-        "start-timestamp": 1559030400.0,
-        "end-timestamp": 1559037600.0,
-        "title": "Industrieanlagen und Arbeitssicherheit",
-        "type": "LECT",
-        "lecturer": "Dallasega Patrick"
-    },
-    {
         "building": "A",
         "floor": "5",
         "room": "18",
@@ -428,6 +438,26 @@
         "title": "EXE-Gr1-27006 Information Systems and Data Management_Poiesi",
         "type": "EXERCISE",
         "lecturer": "Poiesi Fabio"
+    },
+    {
+        "building": "A",
+        "floor": "3",
+        "room": "17",
+        "start-timestamp": 1559030400.0,
+        "end-timestamp": 1559037600.0,
+        "title": "Programming Project EX B",
+        "type": "LAB",
+        "lecturer": "Billero Riccardo"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "20",
+        "start-timestamp": 1559030400.0,
+        "end-timestamp": 1559037600.0,
+        "title": "Industrieanlagen und Arbeitssicherheit",
+        "type": "LECT",
+        "lecturer": "Dallasega Patrick"
     },
     {
         "building": "E",
@@ -461,13 +491,23 @@
     },
     {
         "building": "E",
-        "floor": "5",
+        "floor": "4",
         "room": "22",
         "start-timestamp": 1559037600.0,
         "end-timestamp": 1559044800.0,
-        "title": "Rural Technology Systems",
+        "title": "Physik I",
         "type": "LECT",
-        "lecturer": "Mazzetto Fabrizio"
+        "lecturer": "Peer Angelika"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559037600.0,
+        "end-timestamp": 1559044800.0,
+        "title": "Technisches Deutsch",
+        "type": "LECT",
+        "lecturer": "Cavosi Renata"
     },
     {
         "building": "E",
@@ -491,16 +531,6 @@
     },
     {
         "building": "D",
-        "floor": "1",
-        "room": "03",
-        "start-timestamp": 1559037600.0,
-        "end-timestamp": 1559044800.0,
-        "title": "Technisches Deutsch",
-        "type": "LECT",
-        "lecturer": "Cavosi Renata"
-    },
-    {
-        "building": "D",
         "floor": "0",
         "room": "01",
         "start-timestamp": 1559037600.0,
@@ -508,16 +538,6 @@
         "title": "27044 Allgemeine Betriebswirtschaftslehre",
         "type": "LECT",
         "lecturer": "Rohloff Michael Wilhelm"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "22",
-        "start-timestamp": 1559037600.0,
-        "end-timestamp": 1559044800.0,
-        "title": "Physik I",
-        "type": "LECT",
-        "lecturer": "Peer Angelika"
     },
     {
         "building": "D",
@@ -541,6 +561,16 @@
     },
     {
         "building": "E",
+        "floor": "5",
+        "room": "22",
+        "start-timestamp": 1559037600.0,
+        "end-timestamp": 1559044800.0,
+        "title": "Rural Technology Systems",
+        "type": "LECT",
+        "lecturer": "Mazzetto Fabrizio"
+    },
+    {
+        "building": "E",
         "floor": "4",
         "room": "11",
         "start-timestamp": 1559037600.0,
@@ -548,6 +578,26 @@
         "title": "Fluidmechanik",
         "type": "LECT",
         "lecturer": "Larcher Michele"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559037600.0,
+        "end-timestamp": 1559044800.0,
+        "title": "Advanced topics on machine design_Module I Materials behaviour and machine elements",
+        "type": "LECT",
+        "lecturer": "Concli Franco"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "22",
+        "start-timestamp": 1559037600.0,
+        "end-timestamp": 1559044800.0,
+        "title": "27085_PG_Diritto industriale e dei contr. bancari e finanziari",
+        "type": "LECT",
+        "lecturer": "Giudici Paolo"
     },
     {
         "building": "E",
@@ -590,26 +640,6 @@
         "lecturer": "Peer Angelika"
     },
     {
-        "building": "D",
-        "floor": "0",
-        "room": "02",
-        "start-timestamp": 1559052000.0,
-        "end-timestamp": 1559059200.0,
-        "title": "Advanced Applications of Building Physics",
-        "type": "LECT",
-        "lecturer": "Gasparella Andrea"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "12",
-        "start-timestamp": 1559052000.0,
-        "end-timestamp": 1559059200.0,
-        "title": "Forest planning and protection forestry_Protection forestry",
-        "type": "LECT",
-        "lecturer": "Tonon Giustino"
-    },
-    {
         "building": "E",
         "floor": "5",
         "room": "20",
@@ -620,24 +650,34 @@
         "lecturer": "Fischer Christian Diethard"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
+        "building": "E",
+        "floor": "4",
+        "room": "20",
         "start-timestamp": 1559052000.0,
         "end-timestamp": 1559059200.0,
-        "title": "L-27030_ Konsumentenverhalten",
-        "type": "LECT",
-        "lecturer": "Aichner Thomas"
+        "title": "Advanced topics on machine design_Module I Materials behaviour and machine elements",
+        "type": "EXERCISE",
+        "lecturer": "Concli Franco"
     },
     {
-        "building": "F",
-        "floor": "0",
+        "building": "E",
+        "floor": "4",
+        "room": "12",
+        "start-timestamp": 1559052000.0,
+        "end-timestamp": 1559059200.0,
+        "title": "Real-Time Big Data Processing",
+        "type": "LECT",
+        "lecturer": "Xiao Guohui"
+    },
+    {
+        "building": "C",
+        "floor": "4",
         "room": "01",
         "start-timestamp": 1559052000.0,
         "end-timestamp": 1559059200.0,
-        "title": "Fundamentals of programming",
-        "type": "LECT",
-        "lecturer": "Troquard Nicolas"
+        "title": "Agrarrecht",
+        "type": "EXERCISE",
+        "lecturer": "Miribung Georg"
     },
     {
         "building": "D",
@@ -651,23 +691,53 @@
     },
     {
         "building": "C",
-        "floor": "4",
+        "floor": "2",
+        "room": "06",
+        "start-timestamp": 1559052000.0,
+        "end-timestamp": 1559059200.0,
+        "title": "EXE-27123 Italiano (lingua straniera) linguaggio economico base (immatr. dal 2011/12)",
+        "type": "EXERCISE",
+        "lecturer": "Longo Roberto"
+    },
+    {
+        "building": "F",
+        "floor": "0",
         "room": "01",
         "start-timestamp": 1559052000.0,
         "end-timestamp": 1559059200.0,
-        "title": "Agrarrecht",
-        "type": "EXERCISE",
-        "lecturer": "Miribung Georg"
+        "title": "Fundamentals of programming",
+        "type": "LECT",
+        "lecturer": "Troquard Nicolas"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "12",
+        "start-timestamp": 1559052000.0,
+        "end-timestamp": 1559059200.0,
+        "title": "Forest planning and protection forestry_Protection forestry",
+        "type": "LECT",
+        "lecturer": "Tonon Giustino"
+    },
+    {
+        "building": "D",
+        "floor": "0",
+        "room": "02",
+        "start-timestamp": 1559052000.0,
+        "end-timestamp": 1559059200.0,
+        "title": "Advanced Applications of Building Physics",
+        "type": "LECT",
+        "lecturer": "Gasparella Andrea"
     },
     {
         "building": "E",
         "floor": "4",
-        "room": "12",
+        "room": "11",
         "start-timestamp": 1559052000.0,
         "end-timestamp": 1559059200.0,
-        "title": "Real-Time Big Data Processing",
-        "type": "LECT",
-        "lecturer": "Xiao Guohui"
+        "title": "Elettrotecnica/Macchine elettriche",
+        "type": "EXERCISE",
+        "lecturer": "Bottesi Omar"
     },
     {
         "building": "E",
@@ -680,14 +750,14 @@
         "lecturer": "Tillo Tammam"
     },
     {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
+        "building": "D",
+        "floor": "1",
+        "room": "03",
         "start-timestamp": 1559052000.0,
         "end-timestamp": 1559059200.0,
-        "title": "Elettrotecnica/Macchine elettriche",
-        "type": "EXERCISE",
-        "lecturer": "Bottesi Omar"
+        "title": "L-27030_ Konsumentenverhalten",
+        "type": "LECT",
+        "lecturer": "Aichner Thomas"
     },
     {
         "building": "F",
@@ -710,24 +780,34 @@
         "lecturer": "Giudici Paolo"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
+        "building": "E",
+        "floor": "3",
+        "room": "11",
         "start-timestamp": 1559059200.0,
         "end-timestamp": 1559066400.0,
-        "title": "27050 Political Science 2",
-        "type": "LECT",
-        "lecturer": "Farneti Roberto"
+        "title": "Industrial Automation and Mechatronics II",
+        "type": "EXERCISE",
+        "lecturer": "Calligaro Sandro"
     },
     {
-        "building": "C",
-        "floor": "3",
-        "room": "06",
+        "building": "E",
+        "floor": "4",
+        "room": "20",
         "start-timestamp": 1559059200.0,
         "end-timestamp": 1559066400.0,
-        "title": "27200 Environmental and Resource Economics",
+        "title": "Management of mountain rivers_Hydromorphology_of_mountain_rivers",
         "type": "LECT",
-        "lecturer": "Feess Eberhard"
+        "lecturer": "Comiti Francesco"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "22",
+        "start-timestamp": 1559059200.0,
+        "end-timestamp": 1559066400.0,
+        "title": "Rural Technology Systems",
+        "type": "EXERCISE",
+        "lecturer": "Mazzetto Fabrizio"
     },
     {
         "building": "C",
@@ -750,34 +830,34 @@
         "lecturer": "Calvanese Diego"
     },
     {
-        "building": "E",
-        "floor": "5",
-        "room": "21",
+        "building": "D",
+        "floor": "1",
+        "room": "03",
         "start-timestamp": 1559059200.0,
         "end-timestamp": 1559066400.0,
-        "title": "Management of mountain rivers_Hydromorphology_of_mountain_rivers",
+        "title": "27050 Political Science 2",
         "type": "LECT",
-        "lecturer": "Comiti Francesco"
+        "lecturer": "Farneti Roberto"
     },
     {
         "building": "E",
-        "floor": "5",
-        "room": "22",
-        "start-timestamp": 1559059200.0,
-        "end-timestamp": 1559066400.0,
-        "title": "Rural Technology Systems",
-        "type": "EXERCISE",
-        "lecturer": "Mazzetto Fabrizio"
-    },
-    {
-        "building": "E",
-        "floor": "3",
+        "floor": "4",
         "room": "11",
         "start-timestamp": 1559059200.0,
         "end-timestamp": 1559066400.0,
-        "title": "Industrial Automation and Mechatronics II",
+        "title": "Elettrotecnica/Macchine elettriche",
         "type": "EXERCISE",
-        "lecturer": "Calligaro Sandro"
+        "lecturer": "Bottesi Omar"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559059200.0,
+        "end-timestamp": 1559066400.0,
+        "title": "27200 Environmental and Resource Economics",
+        "type": "LECT",
+        "lecturer": "Feess Eberhard"
     },
     {
         "building": "C",
@@ -791,13 +871,13 @@
     },
     {
         "building": "E",
-        "floor": "4",
-        "room": "11",
+        "floor": "2",
+        "room": "20",
         "start-timestamp": 1559059200.0,
         "end-timestamp": 1559066400.0,
-        "title": "Elettrotecnica/Macchine elettriche",
-        "type": "EXERCISE",
-        "lecturer": "Bottesi Omar"
+        "title": "27028-International Marketing",
+        "type": "LECT",
+        "lecturer": "Veglio Valerio"
     },
     {
         "building": "E",
@@ -821,13 +901,13 @@
     },
     {
         "building": "E",
-        "floor": "3",
-        "room": "20",
+        "floor": "4",
+        "room": "12",
         "start-timestamp": 1559116800.0,
         "end-timestamp": 1559124000.0,
-        "title": "27062  Personal und Organisation im \u00f6ffentlichen Sektor M2",
-        "type": "LECT",
-        "lecturer": "Gunkel Marjaana"
+        "title": "Advanced applications of fluid mechanics_Righetti",
+        "type": "EXERCISE",
+        "lecturer": "Righetti Maurizio"
     },
     {
         "building": "E",
@@ -891,13 +971,23 @@
     },
     {
         "building": "E",
-        "floor": "4",
-        "room": "12",
+        "floor": "3",
+        "room": "20",
         "start-timestamp": 1559116800.0,
         "end-timestamp": 1559124000.0,
-        "title": "Advanced applications of fluid mechanics_Righetti",
+        "title": "27062  Personal und Organisation im \u00f6ffentlichen Sektor M2",
+        "type": "LECT",
+        "lecturer": "Gunkel Marjaana"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "21",
+        "start-timestamp": 1559116800.0,
+        "end-timestamp": 1559124000.0,
+        "title": "Advanced topics on machine design_Module I Materials behaviour and machine elements",
         "type": "EXERCISE",
-        "lecturer": "Righetti Maurizio"
+        "lecturer": "Concli Franco"
     },
     {
         "building": "E",
@@ -992,12 +1082,12 @@
     {
         "building": "E",
         "floor": "4",
-        "room": "22",
+        "room": "12",
         "start-timestamp": 1559124000.0,
         "end-timestamp": 1559131200.0,
-        "title": "Artificial Intelligence",
+        "title": "Data Curation M2: Data Profiling",
         "type": "LECT",
-        "lecturer": "Franconi Enrico"
+        "lecturer": "Cristani Marco"
     },
     {
         "building": "E",
@@ -1012,12 +1102,22 @@
     {
         "building": "E",
         "floor": "4",
-        "room": "12",
+        "room": "22",
         "start-timestamp": 1559124000.0,
         "end-timestamp": 1559131200.0,
-        "title": "Data Curation M2: Data Profiling",
+        "title": "Artificial Intelligence",
         "type": "LECT",
-        "lecturer": "Cristani Marco"
+        "lecturer": "Franconi Enrico"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559124000.0,
+        "end-timestamp": 1559131200.0,
+        "title": "27011_Volkswirtschaftslehre 2",
+        "type": "LECT",
+        "lecturer": "Gick Wolfgang"
     },
     {
         "building": "E",
@@ -1038,6 +1138,16 @@
         "title": "Chimica organica",
         "type": "LECT",
         "lecturer": "Benini Stefano"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559124000.0,
+        "end-timestamp": 1559131200.0,
+        "title": "27001 Economics 1",
+        "type": "LAB",
+        "lecturer": "Fedele Alessandro"
     },
     {
         "building": "C",
@@ -1071,16 +1181,6 @@
     },
     {
         "building": "E",
-        "floor": "3",
-        "room": "11",
-        "start-timestamp": 1559124000.0,
-        "end-timestamp": 1559131200.0,
-        "title": "Mathematics II- MOD 1- Analysis EX B",
-        "type": "EXERCISE",
-        "lecturer": "Ugolini Simone"
-    },
-    {
-        "building": "E",
         "floor": "5",
         "room": "22",
         "start-timestamp": 1559124000.0,
@@ -1108,6 +1208,26 @@
         "title": "Electric Power Conversion Equipment",
         "type": "EXERCISE",
         "lecturer": "Calligaro Sandro"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559124000.0,
+        "end-timestamp": 1559131200.0,
+        "title": "Mathematics II- MOD 1- Analysis EX B",
+        "type": "EXERCISE",
+        "lecturer": "Ugolini Simone"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "21",
+        "start-timestamp": 1559124000.0,
+        "end-timestamp": 1559131200.0,
+        "title": "Advanced topics on machine design_Module I Materials behaviour and machine elements",
+        "type": "EXERCISE",
+        "lecturer": "Concli Franco"
     },
     {
         "building": "E",
@@ -1160,6 +1280,16 @@
         "lecturer": "Gallo Raimondo"
     },
     {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559138400.0,
+        "end-timestamp": 1559145600.0,
+        "title": "Maker Lab B",
+        "type": "EXERCISE",
+        "lecturer": "Rizvi Syed Mehdi Abbas"
+    },
+    {
         "building": "E",
         "floor": "4",
         "room": "20",
@@ -1180,16 +1310,6 @@
         "lecturer": "Stillman Steven Eric"
     },
     {
-        "building": "D",
-        "floor": "0",
-        "room": "02",
-        "start-timestamp": 1559138400.0,
-        "end-timestamp": 1559145600.0,
-        "title": "Advanced Applications of Building Physics",
-        "type": "EXERCISE",
-        "lecturer": "Gasparella Andrea"
-    },
-    {
         "building": "E",
         "floor": "3",
         "room": "11",
@@ -1208,6 +1328,36 @@
         "title": "27200 Environmental and Resource Economics",
         "type": "EXERCISE",
         "lecturer": "Rogna Marco"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "20",
+        "start-timestamp": 1559138400.0,
+        "end-timestamp": 1559145600.0,
+        "title": "Chimica organica",
+        "type": "LECT",
+        "lecturer": "Benini Stefano"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "01",
+        "start-timestamp": 1559138400.0,
+        "end-timestamp": 1559145600.0,
+        "title": "L-27158-GrA-EFL- Spec Lang course for Eco Advanced",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559138400.0,
+        "end-timestamp": 1559145600.0,
+        "title": "Maker Lab A",
+        "type": "LECT",
+        "lecturer": "Gennari Rosella"
     },
     {
         "building": "D",
@@ -1231,6 +1381,16 @@
     },
     {
         "building": "E",
+        "floor": "2",
+        "room": "20",
+        "start-timestamp": 1559138400.0,
+        "end-timestamp": 1559145600.0,
+        "title": "Advanced Applications of Building Physics",
+        "type": "EXERCISE",
+        "lecturer": "Gasparella Andrea"
+    },
+    {
+        "building": "E",
         "floor": "4",
         "room": "12",
         "start-timestamp": 1559138400.0,
@@ -1238,16 +1398,6 @@
         "title": "Fundamentals of programming",
         "type": "EXERCISE",
         "lecturer": "Troquard Nicolas"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "20",
-        "start-timestamp": 1559138400.0,
-        "end-timestamp": 1559145600.0,
-        "title": "Chimica organica",
-        "type": "LECT",
-        "lecturer": "Benini Stefano"
     },
     {
         "building": "E",
@@ -1260,6 +1410,16 @@
         "lecturer": "Gallo Daniel"
     },
     {
+        "building": "E",
+        "floor": "4",
+        "room": "23",
+        "start-timestamp": 1559138400.0,
+        "end-timestamp": 1559152800.0,
+        "title": "29021_Special Research FOCI BehDecMac",
+        "type": "LECT",
+        "lecturer": "Corazzini Luca"
+    },
+    {
         "building": "A",
         "floor": "2",
         "room": "17",
@@ -1270,16 +1430,6 @@
         "lecturer": "Russo Barbara"
     },
     {
-        "building": "E",
-        "floor": "3",
-        "room": "12",
-        "start-timestamp": 1559145600.0,
-        "end-timestamp": 1559152800.0,
-        "title": "Fisica",
-        "type": "EXERCISE",
-        "lecturer": "Salasnich Luca"
-    },
-    {
         "building": "D",
         "floor": "0",
         "room": "01",
@@ -1288,6 +1438,26 @@
         "title": "27044 Allgemeine Betriebswirtschaftslehre",
         "type": "LECT",
         "lecturer": "Rohloff Michael Wilhelm"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "22",
+        "start-timestamp": 1559145600.0,
+        "end-timestamp": 1559152800.0,
+        "title": "Rural Technology Systems",
+        "type": "EXERCISE",
+        "lecturer": "Mazzetto Fabrizio"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "12",
+        "start-timestamp": 1559145600.0,
+        "end-timestamp": 1559152800.0,
+        "title": "Web and Text Mining",
+        "type": "LECT",
+        "lecturer": "Ozaki Rivera Castillo Ana Helena"
     },
     {
         "building": "D",
@@ -1302,12 +1472,12 @@
     {
         "building": "E",
         "floor": "5",
-        "room": "22",
+        "room": "20",
         "start-timestamp": 1559145600.0,
         "end-timestamp": 1559152800.0,
-        "title": "Rural Technology Systems",
-        "type": "EXERCISE",
-        "lecturer": "Mazzetto Fabrizio"
+        "title": "Industrieanlagen und Arbeitssicherheit",
+        "type": "LECT",
+        "lecturer": "Dallasega Patrick"
     },
     {
         "building": "E",
@@ -1320,34 +1490,24 @@
         "lecturer": "Lechner Christian Manfred"
     },
     {
-        "building": "D",
-        "floor": "0",
-        "room": "02",
+        "building": "E",
+        "floor": "3",
+        "room": "12",
+        "start-timestamp": 1559145600.0,
+        "end-timestamp": 1559152800.0,
+        "title": "Fisica",
+        "type": "EXERCISE",
+        "lecturer": "Salasnich Luca"
+    },
+    {
+        "building": "E",
+        "floor": "2",
+        "room": "20",
         "start-timestamp": 1559145600.0,
         "end-timestamp": 1559152800.0,
         "title": "Advanced Applications of Building Physics",
         "type": "LECT",
         "lecturer": "Gasparella Andrea"
-    },
-    {
-        "building": "E",
-        "floor": "5",
-        "room": "20",
-        "start-timestamp": 1559145600.0,
-        "end-timestamp": 1559152800.0,
-        "title": "Industrieanlagen und Arbeitssicherheit",
-        "type": "LECT",
-        "lecturer": "Dallasega Patrick"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "12",
-        "start-timestamp": 1559145600.0,
-        "end-timestamp": 1559152800.0,
-        "title": "Web and Text Mining",
-        "type": "LECT",
-        "lecturer": "Ozaki Rivera Castillo Ana Helena"
     },
     {
         "building": "F",
@@ -1382,12 +1542,22 @@
     {
         "building": "E",
         "floor": "3",
-        "room": "11",
+        "room": "12",
         "start-timestamp": 1559203200.0,
         "end-timestamp": 1559210400.0,
-        "title": "Mobile Robotics",
+        "title": "Fisica",
         "type": "LECT",
-        "lecturer": "von Ellenrieder Karl Dietrich"
+        "lecturer": "Salasnich Luca"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "22",
+        "start-timestamp": 1559203200.0,
+        "end-timestamp": 1559210400.0,
+        "title": "Applications of fluid mechanics to energy engineering",
+        "type": "EXERCISE",
+        "lecturer": "Muhasilovic Medzid"
     },
     {
         "building": "D",
@@ -1400,14 +1570,14 @@
         "lecturer": "De Gennaro Ivo"
     },
     {
-        "building": "E",
-        "floor": "3",
-        "room": "12",
+        "building": "C",
+        "floor": "1",
+        "room": "01",
         "start-timestamp": 1559203200.0,
         "end-timestamp": 1559210400.0,
-        "title": "Fisica",
-        "type": "LECT",
-        "lecturer": "Salasnich Luca"
+        "title": "Maker Lab B",
+        "type": "EXERCISE",
+        "lecturer": "Rizvi Syed Mehdi Abbas"
     },
     {
         "building": "E",
@@ -1440,6 +1610,26 @@
         "lecturer": "Calligaro Sandro"
     },
     {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559203200.0,
+        "end-timestamp": 1559210400.0,
+        "title": "Maker Lab A",
+        "type": "LECT",
+        "lecturer": "Gennari Rosella"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559203200.0,
+        "end-timestamp": 1559210400.0,
+        "title": "Mobile Robotics",
+        "type": "LECT",
+        "lecturer": "von Ellenrieder Karl Dietrich"
+    },
+    {
         "building": "E",
         "floor": "5",
         "room": "20",
@@ -1450,24 +1640,14 @@
         "lecturer": "Zerbe Stefan"
     },
     {
-        "building": "E",
-        "floor": "5",
-        "room": "22",
-        "start-timestamp": 1559203200.0,
-        "end-timestamp": 1559210400.0,
-        "title": "Applications of fluid mechanics to energy engineering",
-        "type": "EXERCISE",
-        "lecturer": "Muhasilovic Medzid"
-    },
-    {
         "building": "C",
-        "floor": "3",
-        "room": "06",
+        "floor": "4",
+        "room": "05",
         "start-timestamp": 1559203200.0,
         "end-timestamp": 1559214000.0,
-        "title": "Presentation, Communication and Scientific Writing",
+        "title": "Foreign Language 2 MA",
         "type": "LECT",
-        "lecturer": "Fronza Ilenia"
+        "lecturer": "Prior Jemma F."
     },
     {
         "building": "F",
@@ -1482,12 +1662,32 @@
     {
         "building": "C",
         "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559203200.0,
+        "end-timestamp": 1559214000.0,
+        "title": "Presentation, Communication and Scientific Writing",
+        "type": "LECT",
+        "lecturer": "Fronza Ilenia"
+    },
+    {
+        "building": "C",
+        "floor": "3",
         "room": "01",
         "start-timestamp": 1559203200.0,
         "end-timestamp": 1559217600.0,
         "title": "Web & Communication Design",
         "type": "LECT",
         "lecturer": "Bonetti Emanuele"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "06",
+        "start-timestamp": 1559206800.0,
+        "end-timestamp": 1559214000.0,
+        "title": "K\u00fcnstlerisches Zeichnen 2D 1 und 2",
+        "type": "LECT",
+        "lecturer": "Thuile Paul"
     },
     {
         "building": "C",
@@ -1510,24 +1710,44 @@
         "lecturer": "Franconi Enrico"
     },
     {
-        "building": "A",
+        "building": "E",
         "floor": "2",
-        "room": "17",
+        "room": "20",
         "start-timestamp": 1559210400.0,
         "end-timestamp": 1559217600.0,
-        "title": "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing LAB",
-        "type": "LAB",
-        "lecturer": "Russo Barbara"
+        "title": "Ecologia agraria e principi di agronomia",
+        "type": "LECT",
+        "lecturer": "Tagliavini Massimo"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "22",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "Database Management Systems",
+        "type": "LECT",
+        "lecturer": "Dign\u00f6s Anton"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "Nature conservation and management_Applied botany",
+        "type": "LECT",
+        "lecturer": "Wellstein Camilla"
     },
     {
         "building": "D",
         "floor": "1",
-        "room": "01",
+        "room": "02",
         "start-timestamp": 1559210400.0,
         "end-timestamp": 1559217600.0,
-        "title": "27058 Politica economica per SES",
+        "title": "L-27013_Marketing ",
         "type": "LECT",
-        "lecturer": "Tonin Mirco"
+        "lecturer": "Raich Frieda"
     },
     {
         "building": "D",
@@ -1540,14 +1760,64 @@
         "lecturer": "Gasparella Andrea"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
+        "building": "E",
+        "floor": "4",
+        "room": "23",
         "start-timestamp": 1559210400.0,
         "end-timestamp": 1559217600.0,
-        "title": "L-27013_Marketing ",
+        "title": "29021_Special Research FOCI BehDecMac",
         "type": "LECT",
-        "lecturer": "Raich Frieda"
+        "lecturer": "Corazzini Luca"
+    },
+    {
+        "building": "E",
+        "floor": "2",
+        "room": "22",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "Agrarrecht",
+        "type": "LECT",
+        "lecturer": "Miribung Georg"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "27058 Politica economica per SES",
+        "type": "LECT",
+        "lecturer": "Tonin Mirco"
+    },
+    {
+        "building": "A",
+        "floor": "2",
+        "room": "17",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing LAB",
+        "type": "LAB",
+        "lecturer": "Russo Barbara"
+    },
+    {
+        "building": "D",
+        "floor": "0",
+        "room": "01",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "27210 Principles of Philosophy 1",
+        "type": "EXERCISE",
+        "lecturer": "De Gennaro Ivo"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "20",
+        "start-timestamp": 1559210400.0,
+        "end-timestamp": 1559217600.0,
+        "title": "Computer Systems MOD 2-Operating Systems",
+        "type": "LECT",
+        "lecturer": "Persia Fabio"
     },
     {
         "building": "E",
@@ -1571,16 +1841,6 @@
     },
     {
         "building": "E",
-        "floor": "3",
-        "room": "11",
-        "start-timestamp": 1559210400.0,
-        "end-timestamp": 1559217600.0,
-        "title": "Nature conservation and management_Applied botany",
-        "type": "LECT",
-        "lecturer": "Wellstein Camilla"
-    },
-    {
-        "building": "E",
         "floor": "4",
         "room": "12",
         "start-timestamp": 1559210400.0,
@@ -1588,26 +1848,6 @@
         "title": "Fachsprache Deutsch",
         "type": "LECT",
         "lecturer": "Cavosi Renata"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "22",
-        "start-timestamp": 1559210400.0,
-        "end-timestamp": 1559217600.0,
-        "title": "Database Management Systems",
-        "type": "LECT",
-        "lecturer": "Dign\u00f6s Anton"
-    },
-    {
-        "building": "E",
-        "floor": "2",
-        "room": "20",
-        "start-timestamp": 1559210400.0,
-        "end-timestamp": 1559217600.0,
-        "title": "Ecologia agraria e principi di agronomia",
-        "type": "LECT",
-        "lecturer": "Tagliavini Massimo"
     },
     {
         "building": "E",
@@ -1628,36 +1868,6 @@
         "title": "Fluidmechanik",
         "type": "EXERCISE",
         "lecturer": "Larcher Michele"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "20",
-        "start-timestamp": 1559210400.0,
-        "end-timestamp": 1559217600.0,
-        "title": "Computer Systems MOD 2-Operating Systems",
-        "type": "LECT",
-        "lecturer": "Persia Fabio"
-    },
-    {
-        "building": "D",
-        "floor": "0",
-        "room": "01",
-        "start-timestamp": 1559210400.0,
-        "end-timestamp": 1559217600.0,
-        "title": "27210 Principles of Philosophy 1",
-        "type": "EXERCISE",
-        "lecturer": "De Gennaro Ivo"
-    },
-    {
-        "building": "E",
-        "floor": "2",
-        "room": "22",
-        "start-timestamp": 1559210400.0,
-        "end-timestamp": 1559217600.0,
-        "title": "Agrarrecht",
-        "type": "LECT",
-        "lecturer": "Miribung Georg"
     },
     {
         "building": "D",
@@ -1721,6 +1931,86 @@
     },
     {
         "building": "E",
+        "floor": "5",
+        "room": "22",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Electrochemical energy storage and conversion",
+        "type": "LECT",
+        "lecturer": "Della Volpe Claudio"
+    },
+    {
+        "building": "A",
+        "floor": "2",
+        "room": "17",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Computer Systems MOD 2-Operating Systems Ex A",
+        "type": "LAB",
+        "lecturer": "Persia Fabio"
+    },
+    {
+        "building": "D",
+        "floor": "0",
+        "room": "02",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Italiano Tecnico",
+        "type": "LECT",
+        "lecturer": "Cagol Marco"
+    },
+    {
+        "building": "A",
+        "floor": "3",
+        "room": "17",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Computer Systems MOD 2-Operating Systems Ex B",
+        "type": "LAB",
+        "lecturer": "D'Auria Daniela"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "22",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Disegno e Metodi dell' Ingegneria Industriale_L-9",
+        "type": "LECT",
+        "lecturer": "Borgianni Yuri"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "21",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Advanced geomatics and environmental impact assessment_Advanced_Geomatics",
+        "type": "LECT",
+        "lecturer": "Antonello Andrea"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "Fundamentals of programming",
+        "type": "LECT",
+        "lecturer": "Troquard Nicolas"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559232000.0,
+        "title": "27006-Information Systems and Data Management",
+        "type": "LECT",
+        "lecturer": "Molinari Andrea"
+    },
+    {
+        "building": "E",
         "floor": "2",
         "room": "20",
         "start-timestamp": 1559224800.0,
@@ -1751,56 +2041,6 @@
     },
     {
         "building": "E",
-        "floor": "5",
-        "room": "21",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "Advanced geomatics and environmental impact assessment_Advanced_Geomatics",
-        "type": "LECT",
-        "lecturer": "Antonello Andrea"
-    },
-    {
-        "building": "A",
-        "floor": "3",
-        "room": "17",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "Computer Systems MOD 2-Operating Systems Ex B",
-        "type": "LAB",
-        "lecturer": "D'Auria Daniela"
-    },
-    {
-        "building": "D",
-        "floor": "0",
-        "room": "02",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "Italiano Tecnico",
-        "type": "LECT",
-        "lecturer": "Cagol Marco"
-    },
-    {
-        "building": "E",
-        "floor": "5",
-        "room": "22",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "Electrochemical energy storage and conversion",
-        "type": "LECT",
-        "lecturer": "Della Volpe Claudio"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "Computer Systems MOD 2-Operating Systems Ex A",
-        "type": "LAB",
-        "lecturer": "Persia Fabio"
-    },
-    {
-        "building": "E",
         "floor": "3",
         "room": "11",
         "start-timestamp": 1559224800.0,
@@ -1811,33 +2051,13 @@
     },
     {
         "building": "E",
-        "floor": "3",
-        "room": "22",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "Disegno e Metodi dell' Ingegneria Industriale_L-9",
-        "type": "LECT",
-        "lecturer": "Borgianni Yuri"
-    },
-    {
-        "building": "E",
         "floor": "4",
-        "room": "11",
+        "room": "23",
         "start-timestamp": 1559224800.0,
         "end-timestamp": 1559232000.0,
-        "title": "Fundamentals of programming",
+        "title": "29021_Special Research FOCI BehDecMac",
         "type": "LECT",
-        "lecturer": "Troquard Nicolas"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "01",
-        "start-timestamp": 1559224800.0,
-        "end-timestamp": 1559232000.0,
-        "title": "27006-Information Systems and Data Management",
-        "type": "LECT",
-        "lecturer": "Molinari Andrea"
+        "lecturer": "Corazzini Luca"
     },
     {
         "building": "E",
@@ -1868,6 +2088,16 @@
         "title": "Media Studies",
         "type": "LECT",
         "lecturer": "Metzner-Szigeth Andreas Bernhard Josef"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559224800.0,
+        "end-timestamp": 1559239200.0,
+        "title": "Typography and Graphics GROUP F",
+        "type": "LECT",
+        "lecturer": "Benincasa Antonino"
     },
     {
         "building": "C",
@@ -1901,6 +2131,16 @@
     },
     {
         "building": "E",
+        "floor": "5",
+        "room": "21",
+        "start-timestamp": 1559232000.0,
+        "end-timestamp": 1559239200.0,
+        "title": "Advanced geomatics and environmental impact assessment_Advanced_Geomatics",
+        "type": "EXERCISE",
+        "lecturer": "Antonello Andrea"
+    },
+    {
+        "building": "E",
         "floor": "3",
         "room": "20",
         "start-timestamp": 1559232000.0,
@@ -1920,14 +2160,24 @@
         "lecturer": "Perona Marco"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
+        "building": "E",
+        "floor": "4",
+        "room": "11",
         "start-timestamp": 1559232000.0,
         "end-timestamp": 1559239200.0,
-        "title": "27050 Political Science 2",
-        "type": "LECT",
-        "lecturer": "Farneti Roberto"
+        "title": "Programming Data Infrastructures Lab",
+        "type": "LAB",
+        "lecturer": "Savkovic Ognjen"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559232000.0,
+        "end-timestamp": 1559239200.0,
+        "title": "27002_Mathematics for Economists_M2_Group 1",
+        "type": "LAB",
+        "lecturer": "Maraner Paolo"
     },
     {
         "building": "D",
@@ -1942,32 +2192,22 @@
     {
         "building": "D",
         "floor": "1",
+        "room": "02",
+        "start-timestamp": 1559232000.0,
+        "end-timestamp": 1559239200.0,
+        "title": "27050 Political Science 2",
+        "type": "LECT",
+        "lecturer": "Farneti Roberto"
+    },
+    {
+        "building": "C",
+        "floor": "2",
         "room": "01",
         "start-timestamp": 1559232000.0,
         "end-timestamp": 1559239200.0,
-        "title": "27002_Mathematics for Economists_M2_Group 1",
-        "type": "LAB",
-        "lecturer": "Maraner Paolo"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
-        "start-timestamp": 1559232000.0,
-        "end-timestamp": 1559239200.0,
-        "title": "Programming Data Infrastructures Lab",
-        "type": "LAB",
-        "lecturer": "Savkovic Ognjen"
-    },
-    {
-        "building": "E",
-        "floor": "5",
-        "room": "21",
-        "start-timestamp": 1559232000.0,
-        "end-timestamp": 1559239200.0,
-        "title": "Advanced geomatics and environmental impact assessment_Advanced_Geomatics",
-        "type": "EXERCISE",
-        "lecturer": "Antonello Andrea"
+        "title": "L-27158-GrB-EFL- Spec Lang course for Eco Advanced",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
     },
     {
         "building": "E",
@@ -1991,6 +2231,16 @@
     },
     {
         "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559289600.0,
+        "end-timestamp": 1559296800.0,
+        "title": "English Specialised for Design 1",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "C",
         "floor": "4",
         "room": "01",
         "start-timestamp": 1559289600.0,
@@ -2011,43 +2261,13 @@
     },
     {
         "building": "E",
-        "floor": "4",
-        "room": "11",
+        "floor": "5",
+        "room": "21",
         "start-timestamp": 1559289600.0,
         "end-timestamp": 1559296800.0,
-        "title": "Web and Text Mining",
+        "title": "Planning and Simulation of Production  and Logistics Systems",
         "type": "LECT",
-        "lecturer": "Ozaki Rivera Castillo Ana Helena"
-    },
-    {
-        "building": "F",
-        "floor": "0",
-        "room": "01",
-        "start-timestamp": 1559289600.0,
-        "end-timestamp": 1559296800.0,
-        "title": "Italiano specialistico per Design 1",
-        "type": "LECT",
-        "lecturer": "Giglio Alessandra"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
-        "start-timestamp": 1559289600.0,
-        "end-timestamp": 1559296800.0,
-        "title": "27011_Volkswirtschaftslehre 2",
-        "type": "EXERCISE",
-        "lecturer": "Gruber Stefan"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559289600.0,
-        "end-timestamp": 1559296800.0,
-        "title": "Empirical Software Engineering Research (EMSE-ESER 8)",
-        "type": "LECT",
-        "lecturer": "Fronza Ilenia"
+        "lecturer": "Perona Marco"
     },
     {
         "building": "E",
@@ -2060,24 +2280,24 @@
         "lecturer": "Tillo Tammam"
     },
     {
-        "building": "C",
-        "floor": "1",
-        "room": "01",
+        "building": "A",
+        "floor": "2",
+        "room": "17",
         "start-timestamp": 1559289600.0,
         "end-timestamp": 1559296800.0,
-        "title": "English Specialised for Design 1",
+        "title": "Empirical Software Engineering Research (EMSE-ESER 8)",
         "type": "LECT",
-        "lecturer": "Prior Jemma F."
+        "lecturer": "Fronza Ilenia"
     },
     {
-        "building": "E",
-        "floor": "5",
-        "room": "21",
+        "building": "D",
+        "floor": "1",
+        "room": "03",
         "start-timestamp": 1559289600.0,
         "end-timestamp": 1559296800.0,
-        "title": "Planning and Simulation of Production  and Logistics Systems",
-        "type": "LECT",
-        "lecturer": "Perona Marco"
+        "title": "27011_Volkswirtschaftslehre 2",
+        "type": "EXERCISE",
+        "lecturer": "Gruber Stefan"
     },
     {
         "building": "D",
@@ -2090,6 +2310,36 @@
         "lecturer": "Prada Alessandro"
     },
     {
+        "building": "D",
+        "floor": "1",
+        "room": "02",
+        "start-timestamp": 1559289600.0,
+        "end-timestamp": 1559296800.0,
+        "title": "EXE-27158-GrA1_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559289600.0,
+        "end-timestamp": 1559296800.0,
+        "title": "Web and Text Mining",
+        "type": "LECT",
+        "lecturer": "Ozaki Rivera Castillo Ana Helena"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "23",
+        "start-timestamp": 1559289600.0,
+        "end-timestamp": 1559304000.0,
+        "title": "29021_Special Research FOCI BehDecMac",
+        "type": "LECT",
+        "lecturer": "Corazzini Luca"
+    },
+    {
         "building": "E",
         "floor": "3",
         "room": "22",
@@ -2098,6 +2348,16 @@
         "title": "Agricultural and Forest Entomology_Group_B",
         "type": "EXERCISE",
         "lecturer": "Angeli Sergio"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559289600.0,
+        "end-timestamp": 1559309400.0,
+        "title": "Typography and Graphics GROUP E",
+        "type": "LECT",
+        "lecturer": "Mariacher Christian"
     },
     {
         "building": "D",
@@ -2131,26 +2391,6 @@
     },
     {
         "building": "C",
-        "floor": "3",
-        "room": "06",
-        "start-timestamp": 1559296800.0,
-        "end-timestamp": 1559304000.0,
-        "title": "Artificial Intelligence",
-        "type": "LECT",
-        "lecturer": "Franconi Enrico"
-    },
-    {
-        "building": "E",
-        "floor": "2",
-        "room": "22",
-        "start-timestamp": 1559296800.0,
-        "end-timestamp": 1559304000.0,
-        "title": "Computer Systems MOD 2-Operating Systems",
-        "type": "LECT",
-        "lecturer": "Persia Fabio"
-    },
-    {
-        "building": "C",
         "floor": "4",
         "room": "01",
         "start-timestamp": 1559296800.0,
@@ -2180,6 +2420,16 @@
         "lecturer": "Baggio Paolo"
     },
     {
+        "building": "E",
+        "floor": "3",
+        "room": "20",
+        "start-timestamp": 1559296800.0,
+        "end-timestamp": 1559304000.0,
+        "title": "EXE-27158-GrB1_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
+    },
+    {
         "building": "C",
         "floor": "2",
         "room": "01",
@@ -2198,6 +2448,26 @@
         "title": "27001 Economics 1",
         "type": "LECT",
         "lecturer": "Moradi Alexander"
+    },
+    {
+        "building": "E",
+        "floor": "2",
+        "room": "22",
+        "start-timestamp": 1559296800.0,
+        "end-timestamp": 1559304000.0,
+        "title": "Computer Systems MOD 2-Operating Systems",
+        "type": "LECT",
+        "lecturer": "Persia Fabio"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559296800.0,
+        "end-timestamp": 1559304000.0,
+        "title": "Artificial Intelligence",
+        "type": "LECT",
+        "lecturer": "Franconi Enrico"
     },
     {
         "building": "D",
@@ -2261,6 +2531,16 @@
     },
     {
         "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559304000.0,
+        "end-timestamp": 1559311200.0,
+        "title": "EXE-27158-GrA2_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
+    },
+    {
+        "building": "C",
         "floor": "3",
         "room": "06",
         "start-timestamp": 1559304000.0,
@@ -2278,16 +2558,6 @@
         "title": "Theory of media and cultural consumption",
         "type": "LECT",
         "lecturer": "Mattozzi Alvise"
-    },
-    {
-        "building": "C",
-        "floor": "4",
-        "room": "01",
-        "start-timestamp": 1559311200.0,
-        "end-timestamp": 1559318400.0,
-        "title": "CAD Fundamentals_Becattini",
-        "type": "LECT",
-        "lecturer": "Becattini Niccol\u00f2"
     },
     {
         "building": "E",
@@ -2320,16 +2590,6 @@
         "lecturer": "von Ellenrieder Karl Dietrich"
     },
     {
-        "building": "A",
-        "floor": "5",
-        "room": "18",
-        "start-timestamp": 1559311200.0,
-        "end-timestamp": 1559318400.0,
-        "title": "EXE-Gr1-27006 Information Systems and Data Management_Poiesi",
-        "type": "EXERCISE",
-        "lecturer": "Poiesi Fabio"
-    },
-    {
         "building": "D",
         "floor": "1",
         "room": "01",
@@ -2338,6 +2598,46 @@
         "title": "27037 Economics 1 for PPE",
         "type": "EXERCISE",
         "lecturer": "Santos-Arteaga Francisco Javier"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559311200.0,
+        "end-timestamp": 1559318400.0,
+        "title": "CAD Fundamentals_Becattini",
+        "type": "LECT",
+        "lecturer": "Becattini Niccol\u00f2"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559311200.0,
+        "end-timestamp": 1559318400.0,
+        "title": "Artificial Intelligence",
+        "type": "LAB",
+        "lecturer": "Rivkin Andrey"
+    },
+    {
+        "building": "E",
+        "floor": "2",
+        "room": "22",
+        "start-timestamp": 1559311200.0,
+        "end-timestamp": 1559318400.0,
+        "title": "Agricultural Economics and Policy",
+        "type": "LECT",
+        "lecturer": "Fischer Christian Diethard"
+    },
+    {
+        "building": "A",
+        "floor": "5",
+        "room": "18",
+        "start-timestamp": 1559311200.0,
+        "end-timestamp": 1559318400.0,
+        "title": "EXE-Gr1-27006 Information Systems and Data Management_Poiesi",
+        "type": "EXERCISE",
+        "lecturer": "Poiesi Fabio"
     },
     {
         "building": "D",
@@ -2360,24 +2660,14 @@
         "lecturer": "Gauly Matthias"
     },
     {
-        "building": "E",
-        "floor": "2",
-        "room": "22",
+        "building": "D",
+        "floor": "0",
+        "room": "03",
         "start-timestamp": 1559311200.0,
         "end-timestamp": 1559318400.0,
-        "title": "Agricultural Economics and Policy",
-        "type": "LECT",
-        "lecturer": "Fischer Christian Diethard"
-    },
-    {
-        "building": "C",
-        "floor": "3",
-        "room": "06",
-        "start-timestamp": 1559311200.0,
-        "end-timestamp": 1559318400.0,
-        "title": "Artificial Intelligence",
-        "type": "LAB",
-        "lecturer": "Rivkin Andrey"
+        "title": "EXE-27158-GrB2_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
     },
     {
         "building": "D",
@@ -2390,16 +2680,6 @@
         "lecturer": "Rogna Marco"
     },
     {
-        "building": "C",
-        "floor": "2",
-        "room": "02",
-        "start-timestamp": 1559311200.0,
-        "end-timestamp": 1559325600.0,
-        "title": "Tecniche di comunicazione del rischio",
-        "type": "LECT",
-        "lecturer": "Pedoth Lydia"
-    },
-    {
         "building": "F",
         "floor": "0",
         "room": "03",
@@ -2408,6 +2688,16 @@
         "title": "Artistic Photography",
         "type": "LECT",
         "lecturer": "Graziani Stefano"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "02",
+        "start-timestamp": 1559311200.0,
+        "end-timestamp": 1559325600.0,
+        "title": "Tecniche di comunicazione del rischio",
+        "type": "LECT",
+        "lecturer": "Pedoth Lydia"
     },
     {
         "building": "E",
@@ -2431,16 +2721,6 @@
     },
     {
         "building": "E",
-        "floor": "3",
-        "room": "11",
-        "start-timestamp": 1559318400.0,
-        "end-timestamp": 1559325600.0,
-        "title": "Programming Data Infrastructures",
-        "type": "LECT",
-        "lecturer": "Savkovic Ognjen"
-    },
-    {
-        "building": "E",
         "floor": "5",
         "room": "20",
         "start-timestamp": 1559318400.0,
@@ -2448,6 +2728,16 @@
         "title": "Mobile Robotics",
         "type": "EXERCISE",
         "lecturer": "von Ellenrieder Karl Dietrich"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559318400.0,
+        "end-timestamp": 1559325600.0,
+        "title": "Programming Data Infrastructures",
+        "type": "LECT",
+        "lecturer": "Savkovic Ognjen"
     },
     {
         "building": "D",
@@ -2481,6 +2771,16 @@
     },
     {
         "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559318400.0,
+        "end-timestamp": 1559329200.0,
+        "title": "EXAM Geb\u00e4rdensprache f\u00fcr P\u00e4dagogInnen",
+        "type": "EXAM",
+        "lecturer": "Schuster Barbara"
+    },
+    {
+        "building": "E",
         "floor": "3",
         "room": "20",
         "start-timestamp": 1559376000.0,
@@ -2500,6 +2800,16 @@
         "lecturer": "Mainardi Marco"
     },
     {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559379600.0,
+        "end-timestamp": 1559394000.0,
+        "title": "Analisi costi-benefici degli interventi Thaler",
+        "type": "LECT",
+        "lecturer": "Thaler Thomas"
+    },
+    {
         "building": "F",
         "floor": "0",
         "room": "01",
@@ -2508,6 +2818,16 @@
         "title": "Video and Post-production",
         "type": "LECT",
         "lecturer": "Mattuzzi  Francesco"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "11",
+        "start-timestamp": 1559397600.0,
+        "end-timestamp": 1559412000.0,
+        "title": "Analisi costi-benefici degli interventi Thaler",
+        "type": "LECT",
+        "lecturer": "Thaler Thomas"
     },
     {
         "building": "E",
@@ -2520,16 +2840,6 @@
         "lecturer": "Longo Edoardo"
     },
     {
-        "building": "C",
-        "floor": "4",
-        "room": "01",
-        "start-timestamp": 1559556000.0,
-        "end-timestamp": 1559563200.0,
-        "title": "Agricultural Economics and Policy",
-        "type": "LECT",
-        "lecturer": "Fischer Christian Diethard"
-    },
-    {
         "building": "E",
         "floor": "3",
         "room": "20",
@@ -2538,6 +2848,16 @@
         "title": "Chimica organica",
         "type": "LECT",
         "lecturer": "Benini Stefano"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559556000.0,
+        "end-timestamp": 1559563200.0,
+        "title": "Agricultural Economics and Policy",
+        "type": "LECT",
+        "lecturer": "Fischer Christian Diethard"
     },
     {
         "building": "D",
@@ -2560,6 +2880,16 @@
         "lecturer": "Cristani Marco"
     },
     {
+        "building": "C",
+        "floor": "1",
+        "room": "06",
+        "start-timestamp": 1559570400.0,
+        "end-timestamp": 1559577600.0,
+        "title": "STUDIO SPACE Module \"Sociology of Space\"",
+        "type": "LECT",
+        "lecturer": "Metzner-Szigeth Andreas Bernhard Josef"
+    },
+    {
         "building": "E",
         "floor": "4",
         "room": "12",
@@ -2580,34 +2910,44 @@
         "lecturer": "Fischer Christian Diethard"
     },
     {
-        "building": "E",
-        "floor": "4",
-        "room": "22",
+        "building": "A",
+        "floor": "3",
+        "room": "17",
         "start-timestamp": 1559570400.0,
         "end-timestamp": 1559577600.0,
-        "title": "Fisica Tecnica",
-        "type": "LECT",
-        "lecturer": "Baratieri Marco"
+        "title": "Programming Project EX B",
+        "type": "LAB",
+        "lecturer": "Billero Riccardo"
     },
     {
-        "building": "D",
-        "floor": "1",
+        "building": "C",
+        "floor": "2",
         "room": "01",
         "start-timestamp": 1559570400.0,
         "end-timestamp": 1559577600.0,
-        "title": "27002_Mathematics for Economists_M2_Group 1",
+        "title": "L-27158-GrA-EFL- Spec Lang course for Eco Advanced",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "A",
+        "floor": "2",
+        "room": "17",
+        "start-timestamp": 1559570400.0,
+        "end-timestamp": 1559577600.0,
+        "title": "Programming Project EX A",
         "type": "LAB",
-        "lecturer": "Maraner Paolo"
+        "lecturer": "Souza Cardoso Evellin Cristine"
     },
     {
         "building": "D",
-        "floor": "1",
-        "room": "02",
+        "floor": "0",
+        "room": "03",
         "start-timestamp": 1559570400.0,
         "end-timestamp": 1559577600.0,
-        "title": "27044 Allgemeine Betriebswirtschaftslehre",
+        "title": "Building HVAC Systems",
         "type": "LECT",
-        "lecturer": "Rohloff Michael Wilhelm"
+        "lecturer": "Baggio Paolo"
     },
     {
         "building": "E",
@@ -2640,34 +2980,34 @@
         "lecturer": "Aichner Thomas"
     },
     {
-        "building": "A",
-        "floor": "3",
-        "room": "17",
+        "building": "D",
+        "floor": "1",
+        "room": "02",
         "start-timestamp": 1559570400.0,
         "end-timestamp": 1559577600.0,
-        "title": "Programming Project EX B",
-        "type": "LAB",
-        "lecturer": "Billero Riccardo"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559570400.0,
-        "end-timestamp": 1559577600.0,
-        "title": "Programming Project EX A",
-        "type": "LAB",
-        "lecturer": "Souza Cardoso Evellin Cristine"
+        "title": "27044 Allgemeine Betriebswirtschaftslehre",
+        "type": "LECT",
+        "lecturer": "Rohloff Michael Wilhelm"
     },
     {
         "building": "D",
-        "floor": "0",
-        "room": "03",
+        "floor": "1",
+        "room": "01",
         "start-timestamp": 1559570400.0,
         "end-timestamp": 1559577600.0,
-        "title": "Building HVAC Systems",
+        "title": "27002_Mathematics for Economists_M2_Group 1",
+        "type": "LAB",
+        "lecturer": "Maraner Paolo"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "22",
+        "start-timestamp": 1559570400.0,
+        "end-timestamp": 1559577600.0,
+        "title": "Fisica Tecnica",
         "type": "LECT",
-        "lecturer": "Baggio Paolo"
+        "lecturer": "Baratieri Marco"
     },
     {
         "building": "E",
@@ -2720,19 +3060,29 @@
         "lecturer": "Farneti Roberto"
     },
     {
-        "building": "C",
-        "floor": "2",
-        "room": "06",
+        "building": "D",
+        "floor": "0",
+        "room": "03",
         "start-timestamp": 1559577600.0,
         "end-timestamp": 1559584800.0,
-        "title": "EXE-27013 Marketing ",
+        "title": "Building HVAC Systems",
         "type": "LECT",
-        "lecturer": "H\u00e4rtel Klaus Rudolf Paul"
+        "lecturer": "Baggio Paolo"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
+        "building": "C",
+        "floor": "2",
+        "room": "01",
+        "start-timestamp": 1559577600.0,
+        "end-timestamp": 1559584800.0,
+        "title": "EXE-27123 Italiano (lingua straniera) linguaggio economico base (immatr. dal 2011/12)",
+        "type": "EXERCISE",
+        "lecturer": "Longo Roberto"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
         "start-timestamp": 1559577600.0,
         "end-timestamp": 1559584800.0,
         "title": "27028-International Marketing",
@@ -2750,24 +3100,14 @@
         "lecturer": "Borgianni Yuri"
     },
     {
-        "building": "D",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559577600.0,
-        "end-timestamp": 1559584800.0,
-        "title": "Building HVAC Systems",
-        "type": "LECT",
-        "lecturer": "Baggio Paolo"
-    },
-    {
-        "building": "C",
+        "building": "E",
         "floor": "4",
-        "room": "01",
+        "room": "12",
         "start-timestamp": 1559577600.0,
         "end-timestamp": 1559584800.0,
-        "title": "Arboricoltura generale",
+        "title": "Industrieanlagen und Arbeitssicherheit",
         "type": "LECT",
-        "lecturer": "Tagliavini Massimo"
+        "lecturer": "Dallasega Patrick"
     },
     {
         "building": "F",
@@ -2780,24 +3120,14 @@
         "lecturer": "Feess Eberhard"
     },
     {
-        "building": "E",
+        "building": "C",
         "floor": "4",
-        "room": "12",
+        "room": "01",
         "start-timestamp": 1559577600.0,
         "end-timestamp": 1559584800.0,
-        "title": "Industrieanlagen und Arbeitssicherheit",
+        "title": "Arboricoltura generale",
         "type": "LECT",
-        "lecturer": "Dallasega Patrick"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "12",
-        "start-timestamp": 1559577600.0,
-        "end-timestamp": 1559584800.0,
-        "title": "Real-Time Big Data Processing Lab",
-        "type": "LAB",
-        "lecturer": "Xiao Guohui"
+        "lecturer": "Tagliavini Massimo"
     },
     {
         "building": "E",
@@ -2810,14 +3140,44 @@
         "lecturer": "Tkalcic Marko"
     },
     {
-        "building": "A",
+        "building": "E",
         "floor": "3",
-        "room": "17",
+        "room": "12",
+        "start-timestamp": 1559577600.0,
+        "end-timestamp": 1559584800.0,
+        "title": "Real-Time Big Data Processing Lab",
+        "type": "LAB",
+        "lecturer": "Xiao Guohui"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "06",
+        "start-timestamp": 1559577600.0,
+        "end-timestamp": 1559584800.0,
+        "title": "EXE-27013 Marketing ",
+        "type": "LECT",
+        "lecturer": "H\u00e4rtel Klaus Rudolf Paul"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559584800.0,
+        "end-timestamp": 1559592000.0,
+        "title": "EXAM2 Intercultural communication",
+        "type": "EXAM",
+        "lecturer": "Gunkel Marjaana"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "22",
         "start-timestamp": 1559635200.0,
         "end-timestamp": 1559642400.0,
-        "title": "Programming Project EX B",
-        "type": "LAB",
-        "lecturer": "Billero Riccardo"
+        "title": "Fisica Tecnica",
+        "type": "LECT",
+        "lecturer": "Baratieri Marco"
     },
     {
         "building": "F",
@@ -2831,33 +3191,13 @@
     },
     {
         "building": "E",
-        "floor": "3",
-        "room": "22",
+        "floor": "4",
+        "room": "11",
         "start-timestamp": 1559635200.0,
         "end-timestamp": 1559642400.0,
-        "title": "Fisica Tecnica",
-        "type": "LECT",
-        "lecturer": "Baratieri Marco"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
-        "start-timestamp": 1559635200.0,
-        "end-timestamp": 1559642400.0,
-        "title": "27028-International Marketing",
-        "type": "LECT",
-        "lecturer": "Veglio Valerio"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559635200.0,
-        "end-timestamp": 1559642400.0,
-        "title": "Programming Project EX A",
-        "type": "LAB",
-        "lecturer": "Souza Cardoso Evellin Cristine"
+        "title": "Purchasing and Supply Management",
+        "type": "EXERCISE",
+        "lecturer": "Ferretti Ivan"
     },
     {
         "building": "C",
@@ -2870,14 +3210,34 @@
         "lecturer": "Brutti Alessio"
     },
     {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
+        "building": "A",
+        "floor": "3",
+        "room": "17",
         "start-timestamp": 1559635200.0,
         "end-timestamp": 1559642400.0,
-        "title": "Purchasing and Supply Management",
-        "type": "EXERCISE",
-        "lecturer": "Ferretti Ivan"
+        "title": "Programming Project EX B",
+        "type": "LAB",
+        "lecturer": "Billero Riccardo"
+    },
+    {
+        "building": "A",
+        "floor": "2",
+        "room": "17",
+        "start-timestamp": 1559635200.0,
+        "end-timestamp": 1559642400.0,
+        "title": "Programming Project EX A",
+        "type": "LAB",
+        "lecturer": "Souza Cardoso Evellin Cristine"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559635200.0,
+        "end-timestamp": 1559642400.0,
+        "title": "27028-International Marketing",
+        "type": "LECT",
+        "lecturer": "Veglio Valerio"
     },
     {
         "building": "E",
@@ -2900,34 +3260,24 @@
         "lecturer": "Gallo Raimondo"
     },
     {
+        "building": "E",
+        "floor": "4",
+        "room": "22",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Physik I",
+        "type": "LECT",
+        "lecturer": "Peer Angelika"
+    },
+    {
         "building": "F",
         "floor": "0",
-        "room": "01",
+        "room": "03",
         "start-timestamp": 1559642400.0,
         "end-timestamp": 1559649600.0,
-        "title": "Physics",
+        "title": "27060 Finanzm\u00e4rkte und Institutionen f\u00fcr \u00d6S",
         "type": "LECT",
-        "lecturer": "Petti Luisa"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "31",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "Project Management and Professional Ethics",
-        "type": "LECT",
-        "lecturer": "Janes Andrea Alexander"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "Fluidmechanik",
-        "type": "LECT",
-        "lecturer": "Larcher Michele"
+        "lecturer": "Weissensteiner Alex"
     },
     {
         "building": "E",
@@ -2942,62 +3292,12 @@
     {
         "building": "E",
         "floor": "4",
-        "room": "22",
+        "room": "11",
         "start-timestamp": 1559642400.0,
         "end-timestamp": 1559649600.0,
-        "title": "Physik I",
+        "title": "Fluidmechanik",
         "type": "LECT",
-        "lecturer": "Peer Angelika"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "27044 Allgemeine Betriebswirtschaftslehre",
-        "type": "LECT",
-        "lecturer": "Rohloff Michael Wilhelm"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing",
-        "type": "LECT",
-        "lecturer": "Russo Barbara"
-    },
-    {
-        "building": "C",
-        "floor": "2",
-        "room": "06",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "EXE-Gr2-27006 Information Systems and Data Management_Brutt",
-        "type": "EXERCISE",
-        "lecturer": "Brutti Alessio"
-    },
-    {
-        "building": "F",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "27060 Finanzm\u00e4rkte und Institutionen f\u00fcr \u00d6S",
-        "type": "LECT",
-        "lecturer": "Weissensteiner Alex"
-    },
-    {
-        "building": "C",
-        "floor": "3",
-        "room": "06",
-        "start-timestamp": 1559642400.0,
-        "end-timestamp": 1559649600.0,
-        "title": "Technisches Deutsch",
-        "type": "LECT",
-        "lecturer": "Cavosi Renata"
+        "lecturer": "Larcher Michele"
     },
     {
         "building": "E",
@@ -3020,6 +3320,96 @@
         "lecturer": "Tkalcic Marko"
     },
     {
+        "building": "F",
+        "floor": "0",
+        "room": "01",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Physics",
+        "type": "LECT",
+        "lecturer": "Petti Luisa"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "01",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Web and Internet Engineering LAB B",
+        "type": "LAB",
+        "lecturer": "Billero Riccardo"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Technisches Deutsch",
+        "type": "LECT",
+        "lecturer": "Cavosi Renata"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "06",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "EXE-Gr2-27006 Information Systems and Data Management_Brutt",
+        "type": "EXERCISE",
+        "lecturer": "Brutti Alessio"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "31",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Project Management and Professional Ethics",
+        "type": "LECT",
+        "lecturer": "Janes Andrea Alexander"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "21",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Advanced topics on machine design_Module I Materials behaviour and machine elements",
+        "type": "EXERCISE",
+        "lecturer": "Concli Franco"
+    },
+    {
+        "building": "A",
+        "floor": "2",
+        "room": "17",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing",
+        "type": "LECT",
+        "lecturer": "Russo Barbara"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "02",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "27044 Allgemeine Betriebswirtschaftslehre",
+        "type": "LECT",
+        "lecturer": "Rohloff Michael Wilhelm"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "22",
+        "start-timestamp": 1559642400.0,
+        "end-timestamp": 1559649600.0,
+        "title": "Web and Internet Engineering LAB A (16)",
+        "type": "LAB",
+        "lecturer": "Barile Francesco"
+    },
+    {
         "building": "E",
         "floor": "4",
         "room": "22",
@@ -3032,32 +3422,12 @@
     {
         "building": "E",
         "floor": "4",
-        "room": "11",
+        "room": "23",
         "start-timestamp": 1559656800.0,
         "end-timestamp": 1559664000.0,
-        "title": "Fundamentals of programming",
+        "title": "Real-Time Big Data Processing",
         "type": "LECT",
-        "lecturer": "Troquard Nicolas"
-    },
-    {
-        "building": "F",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559656800.0,
-        "end-timestamp": 1559664000.0,
-        "title": "27200 Environmental and Resource Economics",
-        "type": "EXERCISE",
-        "lecturer": "Rogna Marco"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
-        "start-timestamp": 1559656800.0,
-        "end-timestamp": 1559664000.0,
-        "title": "27002_Mathematics for Economists_M2_Group 2",
-        "type": "LAB",
-        "lecturer": "Maraner Paolo"
+        "lecturer": "Xiao Guohui"
     },
     {
         "building": "E",
@@ -3071,6 +3441,16 @@
     },
     {
         "building": "E",
+        "floor": "3",
+        "room": "22",
+        "start-timestamp": 1559656800.0,
+        "end-timestamp": 1559664000.0,
+        "title": "Advanced Applications of Building Physics",
+        "type": "LECT",
+        "lecturer": "Gasparella Andrea"
+    },
+    {
+        "building": "E",
         "floor": "5",
         "room": "21",
         "start-timestamp": 1559656800.0,
@@ -3078,6 +3458,16 @@
         "title": "Management of mountain rivers_Hydromorphology_of_mountain_rivers",
         "type": "LECT",
         "lecturer": "Comiti Francesco"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559656800.0,
+        "end-timestamp": 1559664000.0,
+        "title": "27200 Environmental and Resource Economics",
+        "type": "EXERCISE",
+        "lecturer": "Rogna Marco"
     },
     {
         "building": "E",
@@ -3090,16 +3480,6 @@
         "lecturer": "Calligaro Sandro"
     },
     {
-        "building": "E",
-        "floor": "4",
-        "room": "23",
-        "start-timestamp": 1559656800.0,
-        "end-timestamp": 1559664000.0,
-        "title": "Real-Time Big Data Processing",
-        "type": "LECT",
-        "lecturer": "Xiao Guohui"
-    },
-    {
         "building": "C",
         "floor": "4",
         "room": "01",
@@ -3110,14 +3490,54 @@
         "lecturer": "Miribung Georg"
     },
     {
-        "building": "E",
-        "floor": "3",
-        "room": "22",
+        "building": "D",
+        "floor": "1",
+        "room": "02",
         "start-timestamp": 1559656800.0,
         "end-timestamp": 1559664000.0,
-        "title": "Advanced Applications of Building Physics",
+        "title": "27002_Mathematics for Economists_M2_Group 2",
+        "type": "LAB",
+        "lecturer": "Maraner Paolo"
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559656800.0,
+        "end-timestamp": 1559664000.0,
+        "title": "Maker Lab B",
+        "type": "EXERCISE",
+        "lecturer": "Rizvi Syed Mehdi Abbas"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559656800.0,
+        "end-timestamp": 1559664000.0,
+        "title": "Fundamentals of programming",
         "type": "LECT",
-        "lecturer": "Gasparella Andrea"
+        "lecturer": "Troquard Nicolas"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "01",
+        "start-timestamp": 1559656800.0,
+        "end-timestamp": 1559664000.0,
+        "title": "L-27158-GrB-EFL- Spec Lang course for Eco Advanced",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559656800.0,
+        "end-timestamp": 1559664000.0,
+        "title": "Maker Lab A",
+        "type": "LECT",
+        "lecturer": "Gennari Rosella"
     },
     {
         "building": "E",
@@ -3170,16 +3590,6 @@
         "lecturer": "Patuzzi Francesco"
     },
     {
-        "building": "C",
-        "floor": "2",
-        "room": "06",
-        "start-timestamp": 1559664000.0,
-        "end-timestamp": 1559671200.0,
-        "title": "27210 Principles of Philosophy 1",
-        "type": "LECT",
-        "lecturer": "De Gennaro Ivo"
-    },
-    {
         "building": "F",
         "floor": "0",
         "room": "03",
@@ -3190,14 +3600,44 @@
         "lecturer": "Feess Eberhard"
     },
     {
+        "building": "C",
+        "floor": "2",
+        "room": "06",
+        "start-timestamp": 1559664000.0,
+        "end-timestamp": 1559671200.0,
+        "title": "27210 Principles of Philosophy 1",
+        "type": "LECT",
+        "lecturer": "De Gennaro Ivo"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559721600.0,
+        "end-timestamp": 1559728800.0,
+        "title": "Agrarrecht",
+        "type": "LECT",
+        "lecturer": "Miribung Georg"
+    },
+    {
         "building": "E",
-        "floor": "3",
+        "floor": "4",
         "room": "22",
         "start-timestamp": 1559721600.0,
         "end-timestamp": 1559728800.0,
-        "title": "Electric Power Conversion Equipment",
+        "title": "English Specialized",
         "type": "LECT",
-        "lecturer": "Calligaro Sandro"
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559721600.0,
+        "end-timestamp": 1559728800.0,
+        "title": "27058 Politica economica per SES",
+        "type": "LECT",
+        "lecturer": "Tonin Mirco"
     },
     {
         "building": "E",
@@ -3212,32 +3652,12 @@
     {
         "building": "E",
         "floor": "5",
-        "room": "20",
+        "room": "21",
         "start-timestamp": 1559721600.0,
         "end-timestamp": 1559728800.0,
-        "title": "Rural Technology Systems",
+        "title": "Management of mountain rivers_Flood risk mitigation",
         "type": "LECT",
-        "lecturer": "Mazzetto Fabrizio"
-    },
-    {
-        "building": "F",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559721600.0,
-        "end-timestamp": 1559728800.0,
-        "title": "27058 Politica economica per SES",
-        "type": "LECT",
-        "lecturer": "Tonin Mirco"
-    },
-    {
-        "building": "C",
-        "floor": "4",
-        "room": "01",
-        "start-timestamp": 1559721600.0,
-        "end-timestamp": 1559728800.0,
-        "title": "Agrarrecht",
-        "type": "LECT",
-        "lecturer": "Miribung Georg"
+        "lecturer": "Comiti Francesco"
     },
     {
         "building": "E",
@@ -3251,23 +3671,23 @@
     },
     {
         "building": "E",
-        "floor": "4",
+        "floor": "3",
         "room": "22",
         "start-timestamp": 1559721600.0,
         "end-timestamp": 1559728800.0,
-        "title": "English Specialized",
+        "title": "Electric Power Conversion Equipment",
         "type": "LECT",
-        "lecturer": "Prior Jemma F."
+        "lecturer": "Calligaro Sandro"
     },
     {
         "building": "E",
         "floor": "5",
-        "room": "21",
+        "room": "20",
         "start-timestamp": 1559721600.0,
         "end-timestamp": 1559728800.0,
-        "title": "Management of mountain rivers_Flood risk mitigation",
+        "title": "Rural Technology Systems",
         "type": "LECT",
-        "lecturer": "Comiti Francesco"
+        "lecturer": "Mazzetto Fabrizio"
     },
     {
         "building": "D",
@@ -3320,14 +3740,24 @@
         "lecturer": "Moretti Matteo Maria"
     },
     {
-        "building": "E",
+        "building": "A",
         "floor": "2",
-        "room": "22",
+        "room": "17",
         "start-timestamp": 1559728800.0,
         "end-timestamp": 1559736000.0,
-        "title": "Programming Project",
+        "title": "Empirical Software Engineering Research (EMSE-ESER 8)",
         "type": "LECT",
-        "lecturer": "Tkalcic Marko"
+        "lecturer": "Fronza Ilenia"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "01",
+        "start-timestamp": 1559728800.0,
+        "end-timestamp": 1559736000.0,
+        "title": "Physics",
+        "type": "EXERCISE",
+        "lecturer": "Petti Luisa"
     },
     {
         "building": "E",
@@ -3340,14 +3770,54 @@
         "lecturer": "Cristani Marco"
     },
     {
-        "building": "F",
-        "floor": "0",
-        "room": "01",
+        "building": "E",
+        "floor": "2",
+        "room": "22",
         "start-timestamp": 1559728800.0,
         "end-timestamp": 1559736000.0,
-        "title": "Physics",
+        "title": "Programming Project",
+        "type": "LECT",
+        "lecturer": "Tkalcic Marko"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559728800.0,
+        "end-timestamp": 1559736000.0,
+        "title": "27060 Finanzm\u00e4rkte und Institutionen f\u00fcr \u00d6S",
+        "type": "LECT",
+        "lecturer": "Weissensteiner Alex"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "22",
+        "start-timestamp": 1559728800.0,
+        "end-timestamp": 1559736000.0,
+        "title": "Electric Power Conversion Equipment",
         "type": "EXERCISE",
-        "lecturer": "Petti Luisa"
+        "lecturer": "Calligaro Sandro"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559728800.0,
+        "end-timestamp": 1559736000.0,
+        "title": "27161 Financial Statement Analysis OPT",
+        "type": "LECT",
+        "lecturer": "Dalla Via Nicola"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559728800.0,
+        "end-timestamp": 1559736000.0,
+        "title": "Machine Construction and Design",
+        "type": "LECT",
+        "lecturer": "Gorla Carlo"
     },
     {
         "building": "E",
@@ -3382,72 +3852,12 @@
     {
         "building": "E",
         "floor": "4",
-        "room": "11",
-        "start-timestamp": 1559728800.0,
-        "end-timestamp": 1559736000.0,
-        "title": "Machine Construction and Design",
-        "type": "LECT",
-        "lecturer": "Gorla Carlo"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "22",
-        "start-timestamp": 1559728800.0,
-        "end-timestamp": 1559736000.0,
-        "title": "Electric Power Conversion Equipment",
-        "type": "EXERCISE",
-        "lecturer": "Calligaro Sandro"
-    },
-    {
-        "building": "F",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559728800.0,
-        "end-timestamp": 1559736000.0,
-        "title": "27060 Finanzm\u00e4rkte und Institutionen f\u00fcr \u00d6S",
-        "type": "LECT",
-        "lecturer": "Weissensteiner Alex"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559728800.0,
-        "end-timestamp": 1559736000.0,
-        "title": "Empirical Software Engineering Research (EMSE-ESER 8)",
-        "type": "LECT",
-        "lecturer": "Fronza Ilenia"
-    },
-    {
-        "building": "E",
-        "floor": "4",
         "room": "23",
         "start-timestamp": 1559728800.0,
         "end-timestamp": 1559739600.0,
         "title": "Forest planning and protection forestry_Forest inventories",
         "type": "EXERCISE",
         "lecturer": "Ventura Maurizio"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "22",
-        "start-timestamp": 1559736000.0,
-        "end-timestamp": 1559743200.0,
-        "title": "Physik I",
-        "type": "LECT",
-        "lecturer": "Peer Angelika"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
-        "start-timestamp": 1559736000.0,
-        "end-timestamp": 1559743200.0,
-        "title": "L-27030_ Konsumentenverhalten",
-        "type": "LECT",
-        "lecturer": "Aichner Thomas"
     },
     {
         "building": "A",
@@ -3460,34 +3870,84 @@
         "lecturer": "Susanj Boris"
     },
     {
-        "building": "E",
-        "floor": "3",
-        "room": "31",
-        "start-timestamp": 1559743200.0,
-        "end-timestamp": 1559750400.0,
-        "title": "Machine Construction and Design",
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559736000.0,
+        "end-timestamp": 1559743200.0,
+        "title": "L-27030_ Konsumentenverhalten",
         "type": "LECT",
-        "lecturer": "Gorla Carlo"
+        "lecturer": "Aichner Thomas"
     },
     {
         "building": "E",
         "floor": "4",
-        "room": "12",
+        "room": "22",
+        "start-timestamp": 1559736000.0,
+        "end-timestamp": 1559743200.0,
+        "title": "Physik I",
+        "type": "LECT",
+        "lecturer": "Peer Angelika"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "23",
         "start-timestamp": 1559743200.0,
         "end-timestamp": 1559750400.0,
-        "title": "Energetics",
-        "type": "EXERCISE",
-        "lecturer": "Patuzzi Francesco"
+        "title": "27160 Theory of International Relations",
+        "type": "LECT",
+        "lecturer": "Farneti Roberto"
     },
     {
         "building": "E",
-        "floor": "4",
+        "floor": "5",
+        "room": "22",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "Fundamentals of programming",
+        "type": "EXERCISE",
+        "lecturer": "Troquard Nicolas"
+    },
+    {
+        "building": "D",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "Agrarrecht",
+        "type": "EXERCISE",
+        "lecturer": "Miribung Georg"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "01",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "L-27158-GrA-EFL- Spec Lang course for Eco Advanced",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "E",
+        "floor": "2",
         "room": "20",
         "start-timestamp": 1559743200.0,
         "end-timestamp": 1559750400.0,
-        "title": "Data Curation M2: Data Profiling Lab",
-        "type": "LAB",
-        "lecturer": "Cristani Marco"
+        "title": "Silviculture_Ventura",
+        "type": "LECT",
+        "lecturer": "Ventura Maurizio"
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "Maker Lab B",
+        "type": "EXERCISE",
+        "lecturer": "Rizvi Syed Mehdi Abbas"
     },
     {
         "building": "E",
@@ -3501,43 +3961,53 @@
     },
     {
         "building": "E",
-        "floor": "2",
+        "floor": "4",
         "room": "20",
         "start-timestamp": 1559743200.0,
         "end-timestamp": 1559750400.0,
-        "title": "Silviculture_Ventura",
+        "title": "Data Curation M2: Data Profiling Lab",
+        "type": "LAB",
+        "lecturer": "Cristani Marco"
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "Maker Lab A",
         "type": "LECT",
-        "lecturer": "Ventura Maurizio"
-    },
-    {
-        "building": "D",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559743200.0,
-        "end-timestamp": 1559750400.0,
-        "title": "Agrarrecht",
-        "type": "EXERCISE",
-        "lecturer": "Miribung Georg"
-    },
-    {
-        "building": "E",
-        "floor": "5",
-        "room": "22",
-        "start-timestamp": 1559743200.0,
-        "end-timestamp": 1559750400.0,
-        "title": "Fundamentals of programming",
-        "type": "EXERCISE",
-        "lecturer": "Troquard Nicolas"
+        "lecturer": "Gennari Rosella"
     },
     {
         "building": "E",
         "floor": "4",
-        "room": "23",
+        "room": "12",
         "start-timestamp": 1559743200.0,
         "end-timestamp": 1559750400.0,
-        "title": "27160 Theory of International Relations",
+        "title": "Energetics",
+        "type": "EXERCISE",
+        "lecturer": "Patuzzi Francesco"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "31",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "Machine Construction and Design",
         "type": "LECT",
-        "lecturer": "Farneti Roberto"
+        "lecturer": "Gorla Carlo"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559743200.0,
+        "end-timestamp": 1559750400.0,
+        "title": "EXE-27123 Italiano (lingua straniera) linguaggio economico base (immatr. dal 2011/12)",
+        "type": "EXERCISE",
+        "lecturer": "Longo Roberto"
     },
     {
         "building": "E",
@@ -3560,6 +4030,46 @@
         "lecturer": "De Massis Alfredo Vittorio"
     },
     {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559750400.0,
+        "end-timestamp": 1559757600.0,
+        "title": "27044 Allgemeine Betriebswirtschaftslehre",
+        "type": "LECT",
+        "lecturer": "Rohloff Michael Wilhelm"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559750400.0,
+        "end-timestamp": 1559757600.0,
+        "title": "27200 Environmental and Resource Economics",
+        "type": "LECT",
+        "lecturer": "Feess Eberhard"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559750400.0,
+        "end-timestamp": 1559757600.0,
+        "title": "Fisica",
+        "type": "EXERCISE",
+        "lecturer": "Salasnich Luca"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "02",
+        "start-timestamp": 1559750400.0,
+        "end-timestamp": 1559757600.0,
+        "title": "27002_Mathematics for Economists_M2_Group 1",
+        "type": "LAB",
+        "lecturer": "Maraner Paolo"
+    },
+    {
         "building": "E",
         "floor": "4",
         "room": "12",
@@ -3580,26 +4090,6 @@
         "lecturer": "Gasparella Andrea"
     },
     {
-        "building": "F",
-        "floor": "0",
-        "room": "03",
-        "start-timestamp": 1559750400.0,
-        "end-timestamp": 1559757600.0,
-        "title": "27200 Environmental and Resource Economics",
-        "type": "LECT",
-        "lecturer": "Feess Eberhard"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
-        "start-timestamp": 1559750400.0,
-        "end-timestamp": 1559757600.0,
-        "title": "27002_Mathematics for Economists_M2_Group 1",
-        "type": "LAB",
-        "lecturer": "Maraner Paolo"
-    },
-    {
         "building": "D",
         "floor": "0",
         "room": "03",
@@ -3610,26 +4100,6 @@
         "lecturer": "Tagliavini Massimo"
     },
     {
-        "building": "C",
-        "floor": "4",
-        "room": "01",
-        "start-timestamp": 1559750400.0,
-        "end-timestamp": 1559757600.0,
-        "title": "Fisica",
-        "type": "EXERCISE",
-        "lecturer": "Salasnich Luca"
-    },
-    {
-        "building": "D",
-        "floor": "1",
-        "room": "03",
-        "start-timestamp": 1559750400.0,
-        "end-timestamp": 1559757600.0,
-        "title": "27044 Allgemeine Betriebswirtschaftslehre",
-        "type": "LECT",
-        "lecturer": "Rohloff Michael Wilhelm"
-    },
-    {
         "building": "F",
         "floor": "0",
         "room": "03",
@@ -3638,6 +4108,36 @@
         "title": "L-Diskurse zum Kulturerbe",
         "type": "LECT",
         "lecturer": "Gl\u00fcher Gerhard"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "05",
+        "start-timestamp": 1559808000.0,
+        "end-timestamp": 1559815200.0,
+        "title": "Foreign Language 2 MA",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "21",
+        "start-timestamp": 1559808000.0,
+        "end-timestamp": 1559815200.0,
+        "title": "Purchasing and Supply Management",
+        "type": "EXERCISE",
+        "lecturer": "Ferretti Ivan"
+    },
+    {
+        "building": "D",
+        "floor": "1",
+        "room": "03",
+        "start-timestamp": 1559808000.0,
+        "end-timestamp": 1559815200.0,
+        "title": "EXE-27158-GrA1_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
     },
     {
         "building": "E",
@@ -3661,16 +4161,6 @@
     },
     {
         "building": "E",
-        "floor": "5",
-        "room": "21",
-        "start-timestamp": 1559808000.0,
-        "end-timestamp": 1559815200.0,
-        "title": "Purchasing and Supply Management",
-        "type": "EXERCISE",
-        "lecturer": "Ferretti Ivan"
-    },
-    {
-        "building": "E",
         "floor": "4",
         "room": "11",
         "start-timestamp": 1559808000.0,
@@ -3681,13 +4171,13 @@
     },
     {
         "building": "C",
-        "floor": "4",
-        "room": "01",
+        "floor": "3",
+        "room": "06",
         "start-timestamp": 1559808000.0,
-        "end-timestamp": 1559815200.0,
-        "title": "Web and Internet Engineering",
+        "end-timestamp": 1559818800.0,
+        "title": "Presentation, Communication and Scientific Writing",
         "type": "LECT",
-        "lecturer": "Zanker Markus"
+        "lecturer": "Fronza Ilenia"
     },
     {
         "building": "F",
@@ -3698,16 +4188,6 @@
         "title": "History of Design 2",
         "type": "LECT",
         "lecturer": "H\u00f6ger Hans Leo"
-    },
-    {
-        "building": "C",
-        "floor": "3",
-        "room": "06",
-        "start-timestamp": 1559808000.0,
-        "end-timestamp": 1559818800.0,
-        "title": "Presentation, Communication and Scientific Writing",
-        "type": "LECT",
-        "lecturer": "Fronza Ilenia"
     },
     {
         "building": "E",
@@ -3721,23 +4201,13 @@
     },
     {
         "building": "E",
-        "floor": "4",
-        "room": "23",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "Web and Text Mining Lab",
-        "type": "LAB",
-        "lecturer": "Ozaki Rivera Castillo Ana Helena"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "12",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "Analytische Chemie f\u00fcr Agrarprodukte und Lebensmittel",
+        "floor": "2",
+        "room": "22",
+        "start-timestamp": 1559811600.0,
+        "end-timestamp": 1559818800.0,
+        "title": "Web and Internet Engineering",
         "type": "LECT",
-        "lecturer": "Mimmo Tanja"
+        "lecturer": "Zanker Markus"
     },
     {
         "building": "D",
@@ -3748,66 +4218,6 @@
         "title": "27058 Politica economica per SES",
         "type": "LECT",
         "lecturer": "Tonin Mirco"
-    },
-    {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing LAB",
-        "type": "LAB",
-        "lecturer": "Russo Barbara"
-    },
-    {
-        "building": "C",
-        "floor": "2",
-        "room": "06",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "27210 Principles of Philosophy 1",
-        "type": "EXERCISE",
-        "lecturer": "De Gennaro Ivo"
-    },
-    {
-        "building": "E",
-        "floor": "5",
-        "room": "20",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "Electrochemical energy storage and conversion",
-        "type": "LECT",
-        "lecturer": "Della Volpe Claudio"
-    },
-    {
-        "building": "E",
-        "floor": "3",
-        "room": "22",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "Advanced Applications of Building Physics",
-        "type": "EXERCISE",
-        "lecturer": "Gasparella Andrea"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "Fluidmechanik",
-        "type": "EXERCISE",
-        "lecturer": "Larcher Michele"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "22",
-        "start-timestamp": 1559815200.0,
-        "end-timestamp": 1559822400.0,
-        "title": "27160 Theory of International Relations",
-        "type": "LECT",
-        "lecturer": "Farneti Roberto"
     },
     {
         "building": "E",
@@ -3822,12 +4232,102 @@
     {
         "building": "E",
         "floor": "4",
+        "room": "22",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "27160 Theory of International Relations",
+        "type": "LECT",
+        "lecturer": "Farneti Roberto"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Fluidmechanik",
+        "type": "EXERCISE",
+        "lecturer": "Larcher Michele"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "22",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Advanced Applications of Building Physics",
+        "type": "EXERCISE",
+        "lecturer": "Gasparella Andrea"
+    },
+    {
+        "building": "E",
+        "floor": "4",
         "room": "12",
         "start-timestamp": 1559815200.0,
         "end-timestamp": 1559822400.0,
         "title": "Fachsprache Deutsch",
         "type": "LECT",
         "lecturer": "Cavosi Renata"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "01",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "27161 Financial Statement Analysis OPT",
+        "type": "LECT",
+        "lecturer": "Dalla Via Nicola"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "EXE-27158-GrB1_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
+    },
+    {
+        "building": "C",
+        "floor": "2",
+        "room": "06",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "27210 Principles of Philosophy 1",
+        "type": "EXERCISE",
+        "lecturer": "De Gennaro Ivo"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "12",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Analytische Chemie f\u00fcr Agrarprodukte und Lebensmittel",
+        "type": "LECT",
+        "lecturer": "Mimmo Tanja"
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Maker Lab A",
+        "type": "LECT",
+        "lecturer": "Gennari Rosella"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "23",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Web and Text Mining Lab",
+        "type": "LAB",
+        "lecturer": "Ozaki Rivera Castillo Ana Helena"
     },
     {
         "building": "E",
@@ -3840,6 +4340,36 @@
         "lecturer": "Tagliavini Massimo"
     },
     {
+        "building": "A",
+        "floor": "2",
+        "room": "17",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Verification and Validation (EMSE-VV-8) / Software Reliability and Testing LAB",
+        "type": "LAB",
+        "lecturer": "Russo Barbara"
+    },
+    {
+        "building": "C",
+        "floor": "1",
+        "room": "01",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Maker Lab B",
+        "type": "EXERCISE",
+        "lecturer": "Rizvi Syed Mehdi Abbas"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "20",
+        "start-timestamp": 1559815200.0,
+        "end-timestamp": 1559822400.0,
+        "title": "Electrochemical energy storage and conversion",
+        "type": "LECT",
+        "lecturer": "Della Volpe Claudio"
+    },
+    {
         "building": "C",
         "floor": "4",
         "room": "05",
@@ -3848,6 +4378,16 @@
         "title": "Interface Design",
         "type": "LECT",
         "lecturer": "Schubert Jennifer Liesbeth"
+    },
+    {
+        "building": "C",
+        "floor": "3",
+        "room": "06",
+        "start-timestamp": 1559818800.0,
+        "end-timestamp": 1559826000.0,
+        "title": "Deutsch im Studium 2 (Design) / Fremdsprache DES-ART 2",
+        "type": "LECT",
+        "lecturer": "Oberhammer Margit"
     },
     {
         "building": "F",
@@ -3860,14 +4400,24 @@
         "lecturer": "Prior Jemma F."
     },
     {
-        "building": "C",
-        "floor": "3",
-        "room": "06",
+        "building": "E",
+        "floor": "2",
+        "room": "22",
         "start-timestamp": 1559818800.0,
-        "end-timestamp": 1559826000.0,
-        "title": "Deutsch im Studium 2 (Design) / Fremdsprache DES-ART 2",
-        "type": "LECT",
-        "lecturer": "Oberhammer Margit"
+        "end-timestamp": 1559829600.0,
+        "title": "EXAM Menschenrecht",
+        "type": "EXAM",
+        "lecturer": "Summerer Kolis"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559822400.0,
+        "end-timestamp": 1559829600.0,
+        "title": "EXE-27158-GrA2_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
     },
     {
         "building": "D",
@@ -3980,6 +4530,16 @@
         "lecturer": "Gorla Carlo"
     },
     {
+        "building": "D",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559829600.0,
+        "end-timestamp": 1559836800.0,
+        "title": "EXE-27158-GrB2_EFL- Spec_Lang_cour_for Eco Advanced",
+        "type": "EXERCISE",
+        "lecturer": "Sunda Anita Rani"
+    },
+    {
         "building": "E",
         "floor": "4",
         "room": "12",
@@ -4028,6 +4588,16 @@
         "title": "German Supplementary course",
         "type": "LECT",
         "lecturer": "Gallo Daniel"
+    },
+    {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559829600.0,
+        "end-timestamp": 1559844000.0,
+        "title": "Typography and Graphics GROUP F",
+        "type": "LECT",
+        "lecturer": "Benincasa Antonino"
     },
     {
         "building": "C",
@@ -4140,6 +4710,16 @@
         "lecturer": "Gorla Carlo"
     },
     {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559836800.0,
+        "end-timestamp": 1559844000.0,
+        "title": "L-27158-GrB-EFL- Spec Lang course for Eco Advanced",
+        "type": "LECT",
+        "lecturer": "Prior Jemma F."
+    },
+    {
         "building": "E",
         "floor": "3",
         "room": "31",
@@ -4170,14 +4750,24 @@
         "lecturer": "Lechner Christian Manfred"
     },
     {
-        "building": "A",
-        "floor": "2",
-        "room": "17",
+        "building": "E",
+        "floor": "5",
+        "room": "21",
         "start-timestamp": 1559894400.0,
         "end-timestamp": 1559901600.0,
-        "title": "Empirical Software Engineering Research (EMSE-ESER 8)",
+        "title": "Planning and Simulation of Production  and Logistics Systems",
         "type": "LECT",
-        "lecturer": "Fronza Ilenia"
+        "lecturer": "Perona Marco"
+    },
+    {
+        "building": "C",
+        "floor": "4",
+        "room": "01",
+        "start-timestamp": 1559894400.0,
+        "end-timestamp": 1559901600.0,
+        "title": "Agrarrecht",
+        "type": "LECT",
+        "lecturer": "Miribung Georg"
     },
     {
         "building": "C",
@@ -4190,14 +4780,14 @@
         "lecturer": "Prior Jemma F."
     },
     {
-        "building": "C",
-        "floor": "4",
-        "room": "01",
+        "building": "A",
+        "floor": "2",
+        "room": "17",
         "start-timestamp": 1559894400.0,
         "end-timestamp": 1559901600.0,
-        "title": "Agrarrecht",
+        "title": "Empirical Software Engineering Research (EMSE-ESER 8)",
         "type": "LECT",
-        "lecturer": "Miribung Georg"
+        "lecturer": "Fronza Ilenia"
     },
     {
         "building": "D",
@@ -4222,6 +4812,26 @@
     {
         "building": "E",
         "floor": "4",
+        "room": "12",
+        "start-timestamp": 1559894400.0,
+        "end-timestamp": 1559901600.0,
+        "title": "Web and Text Mining",
+        "type": "LECT",
+        "lecturer": "Ozaki Rivera Castillo Ana Helena"
+    },
+    {
+        "building": "E",
+        "floor": "1",
+        "room": "12",
+        "start-timestamp": 1559894400.0,
+        "end-timestamp": 1559901600.0,
+        "title": "Fruit and Vegetable Fermentation",
+        "type": "EXERCISE",
+        "lecturer": "Di Cagno Raffaella"
+    },
+    {
+        "building": "E",
+        "floor": "4",
         "room": "23",
         "start-timestamp": 1559894400.0,
         "end-timestamp": 1559901600.0,
@@ -4240,44 +4850,14 @@
         "lecturer": "Muhasilovic Medzid"
     },
     {
-        "building": "F",
+        "building": "D",
         "floor": "0",
-        "room": "01",
+        "room": "03",
         "start-timestamp": 1559894400.0,
-        "end-timestamp": 1559901600.0,
+        "end-timestamp": 1559905200.0,
         "title": "Italiano specialistico per Design 1",
         "type": "LECT",
         "lecturer": "Giglio Alessandra"
-    },
-    {
-        "building": "E",
-        "floor": "1",
-        "room": "12",
-        "start-timestamp": 1559894400.0,
-        "end-timestamp": 1559901600.0,
-        "title": "Fruit and Vegetable Fermentation",
-        "type": "EXERCISE",
-        "lecturer": "Di Cagno Raffaella"
-    },
-    {
-        "building": "E",
-        "floor": "5",
-        "room": "21",
-        "start-timestamp": 1559894400.0,
-        "end-timestamp": 1559901600.0,
-        "title": "Planning and Simulation of Production  and Logistics Systems",
-        "type": "LECT",
-        "lecturer": "Perona Marco"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "12",
-        "start-timestamp": 1559894400.0,
-        "end-timestamp": 1559901600.0,
-        "title": "Web and Text Mining",
-        "type": "LECT",
-        "lecturer": "Ozaki Rivera Castillo Ana Helena"
     },
     {
         "building": "E",
@@ -4301,23 +4881,23 @@
     },
     {
         "building": "E",
-        "floor": "4",
-        "room": "12",
+        "floor": "5",
+        "room": "21",
         "start-timestamp": 1559901600.0,
         "end-timestamp": 1559908800.0,
-        "title": "Advanced methods for fluid machine design_Nigro",
+        "title": "Planning and Simulation of Production  and Logistics Systems",
         "type": "EXERCISE",
-        "lecturer": "Nigro Alessandra"
+        "lecturer": "Ferretti Ivan"
     },
     {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
+        "building": "D",
+        "floor": "1",
+        "room": "03",
         "start-timestamp": 1559901600.0,
         "end-timestamp": 1559908800.0,
-        "title": "Lingua specialistica Italiano",
-        "type": "EXERCISE",
-        "lecturer": "Nitti Paolo"
+        "title": "27124 Deutsch (Fremdsprache) Grundfachsprache Wirtschaft_M-Z",
+        "type": "LECT",
+        "lecturer": "Algranati Cristina"
     },
     {
         "building": "D",
@@ -4331,6 +4911,16 @@
     },
     {
         "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559901600.0,
+        "end-timestamp": 1559908800.0,
+        "title": "Lingua specialistica Italiano",
+        "type": "EXERCISE",
+        "lecturer": "Nitti Paolo"
+    },
+    {
+        "building": "E",
         "floor": "5",
         "room": "20",
         "start-timestamp": 1559901600.0,
@@ -4341,16 +4931,6 @@
     },
     {
         "building": "E",
-        "floor": "5",
-        "room": "21",
-        "start-timestamp": 1559901600.0,
-        "end-timestamp": 1559908800.0,
-        "title": "Planning and Simulation of Production  and Logistics Systems",
-        "type": "EXERCISE",
-        "lecturer": "Ferretti Ivan"
-    },
-    {
-        "building": "E",
         "floor": "2",
         "room": "20",
         "start-timestamp": 1559901600.0,
@@ -4358,6 +4938,16 @@
         "title": "Machine Learning Lab",
         "type": "LAB",
         "lecturer": "Kacimi El Hassani Mouna"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "12",
+        "start-timestamp": 1559901600.0,
+        "end-timestamp": 1559908800.0,
+        "title": "Advanced methods for fluid machine design_Nigro",
+        "type": "EXERCISE",
+        "lecturer": "Nigro Alessandra"
     },
     {
         "building": "C",
@@ -4390,16 +4980,6 @@
         "lecturer": "Cipolotti Giovanni Battista"
     },
     {
-        "building": "D",
-        "floor": "1",
-        "room": "02",
-        "start-timestamp": 1559908800.0,
-        "end-timestamp": 1559916000.0,
-        "title": "L-27013_Marketing ",
-        "type": "LECT",
-        "lecturer": "Raich Frieda"
-    },
-    {
         "building": "C",
         "floor": "3",
         "room": "06",
@@ -4410,6 +4990,16 @@
         "lecturer": "Brutti Alessio"
     },
     {
+        "building": "D",
+        "floor": "1",
+        "room": "02",
+        "start-timestamp": 1559908800.0,
+        "end-timestamp": 1559916000.0,
+        "title": "L-27013_Marketing ",
+        "type": "LECT",
+        "lecturer": "Raich Frieda"
+    },
+    {
         "building": "F",
         "floor": "0",
         "room": "01",
@@ -4418,16 +5008,6 @@
         "title": "Theory of media and cultural consumption",
         "type": "LECT",
         "lecturer": "Mattozzi Alvise"
-    },
-    {
-        "building": "E",
-        "floor": "4",
-        "room": "11",
-        "start-timestamp": 1559916000.0,
-        "end-timestamp": 1559923200.0,
-        "title": "Mobile Robotics",
-        "type": "LECT",
-        "lecturer": "von Ellenrieder Karl Dietrich"
     },
     {
         "building": "D",
@@ -4442,22 +5022,32 @@
     {
         "building": "E",
         "floor": "4",
-        "room": "22",
-        "start-timestamp": 1559916000.0,
-        "end-timestamp": 1559923200.0,
-        "title": "Estimo generale e speciale",
-        "type": "EXERCISE",
-        "lecturer": "Cipolotti Giovanni Battista"
-    },
-    {
-        "building": "E",
-        "floor": "4",
         "room": "12",
         "start-timestamp": 1559916000.0,
         "end-timestamp": 1559923200.0,
         "title": "PLM Product Life Cycle Management",
         "type": "LECT",
         "lecturer": "Franzellin Vittorio"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "11",
+        "start-timestamp": 1559916000.0,
+        "end-timestamp": 1559923200.0,
+        "title": "Mobile Robotics",
+        "type": "LECT",
+        "lecturer": "von Ellenrieder Karl Dietrich"
+    },
+    {
+        "building": "E",
+        "floor": "4",
+        "room": "22",
+        "start-timestamp": 1559916000.0,
+        "end-timestamp": 1559923200.0,
+        "title": "Estimo generale e speciale",
+        "type": "EXERCISE",
+        "lecturer": "Cipolotti Giovanni Battista"
     },
     {
         "building": "D",
@@ -4470,16 +5060,6 @@
         "lecturer": "Maraner Paolo"
     },
     {
-        "building": "E",
-        "floor": "3",
-        "room": "20",
-        "start-timestamp": 1559916000.0,
-        "end-timestamp": 1559926800.0,
-        "title": "27065 Public Economics",
-        "type": "LECT",
-        "lecturer": "Stillman Steven Eric"
-    },
-    {
         "building": "C",
         "floor": "4",
         "room": "05",
@@ -4490,14 +5070,14 @@
         "lecturer": "Tauber Elisabeth"
     },
     {
-        "building": "C",
-        "floor": "4",
-        "room": "03",
+        "building": "E",
+        "floor": "3",
+        "room": "20",
         "start-timestamp": 1559916000.0,
-        "end-timestamp": 1559930400.0,
-        "title": "Interior & Exhibit Design",
+        "end-timestamp": 1559926800.0,
+        "title": "27065 Public Economics",
         "type": "LECT",
-        "lecturer": "Gigliotti Roberto"
+        "lecturer": "Stillman Steven Eric"
     },
     {
         "building": "E",
@@ -4510,6 +5090,16 @@
         "lecturer": "Mazzetto Fabrizio"
     },
     {
+        "building": "F",
+        "floor": "0",
+        "room": "03",
+        "start-timestamp": 1559916000.0,
+        "end-timestamp": 1559930400.0,
+        "title": "Artistic Photography",
+        "type": "LECT",
+        "lecturer": "Graziani Stefano"
+    },
+    {
         "building": "E",
         "floor": "3",
         "room": "11",
@@ -4520,14 +5110,14 @@
         "lecturer": "Gauly Matthias"
     },
     {
-        "building": "F",
-        "floor": "0",
+        "building": "C",
+        "floor": "4",
         "room": "03",
         "start-timestamp": 1559916000.0,
         "end-timestamp": 1559930400.0,
-        "title": "Artistic Photography",
+        "title": "Interior & Exhibit Design",
         "type": "LECT",
-        "lecturer": "Graziani Stefano"
+        "lecturer": "Gigliotti Roberto"
     },
     {
         "building": "C",
@@ -4540,16 +5130,6 @@
         "lecturer": "Rossi Fabrizio"
     },
     {
-        "building": "E",
-        "floor": "5",
-        "room": "20",
-        "start-timestamp": 1559923200.0,
-        "end-timestamp": 1559930400.0,
-        "title": "Mobile Robotics",
-        "type": "EXERCISE",
-        "lecturer": "von Ellenrieder Karl Dietrich"
-    },
-    {
         "building": "D",
         "floor": "1",
         "room": "03",
@@ -4560,14 +5140,24 @@
         "lecturer": "Feess Eberhard"
     },
     {
-        "building": "E",
-        "floor": "4",
-        "room": "12",
+        "building": "F",
+        "floor": "0",
+        "room": "01",
         "start-timestamp": 1559923200.0,
         "end-timestamp": 1559930400.0,
-        "title": "PLM Product Life Cycle Management",
+        "title": "Video and Post-production",
         "type": "LECT",
-        "lecturer": "Franzellin Vittorio"
+        "lecturer": "Mattuzzi  Francesco"
+    },
+    {
+        "building": "E",
+        "floor": "5",
+        "room": "20",
+        "start-timestamp": 1559923200.0,
+        "end-timestamp": 1559930400.0,
+        "title": "Mobile Robotics",
+        "type": "EXERCISE",
+        "lecturer": "von Ellenrieder Karl Dietrich"
     },
     {
         "building": "C",
@@ -4580,14 +5170,14 @@
         "lecturer": "Brutti Alessio"
     },
     {
-        "building": "F",
-        "floor": "0",
-        "room": "01",
+        "building": "E",
+        "floor": "4",
+        "room": "12",
         "start-timestamp": 1559923200.0,
         "end-timestamp": 1559930400.0,
-        "title": "Video and Post-production",
+        "title": "PLM Product Life Cycle Management",
         "type": "LECT",
-        "lecturer": "Mattuzzi  Francesco"
+        "lecturer": "Franzellin Vittorio"
     },
     {
         "building": "C",
@@ -4608,5 +5198,15 @@
         "title": "Artistic Photography",
         "type": "LECT",
         "lecturer": "Graziani Stefano"
+    },
+    {
+        "building": "E",
+        "floor": "3",
+        "room": "20",
+        "start-timestamp": 1560182400.0,
+        "end-timestamp": 1560193200.0,
+        "title": "L_27230 Service Design",
+        "type": "LECT",
+        "lecturer": "Rothbucher Bernhard Heinrich"
     }
 ]
