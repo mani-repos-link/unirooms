@@ -99,17 +99,35 @@ class Endpoints(Resource):
 
 class CompleteList(Resource):
     def get(self):
-        return {'data': great_list}
+        data = great_list
+        if is_time_params_valid():
+            data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
+                great_list)
+        return {'data': data}
 
 
 class LecturesList(Resource):
     def get(self):
-        return {'data': great_list["lectures"]}
+        data = great_list["lectures"]
+        if is_time_params_valid():
+            data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
+                great_list["lectures"])
+        return {'data': data}
 
 
 class AllRoomsList(Resource):
     def get(self):
-        return {'data': great_list["rooms"]}
+        data = great_list["rooms"]
+        if is_time_params_valid():
+            data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
+                great_list["rooms"])
+        return {'data': data}
 
 
 class Buildings(Resource):
@@ -171,8 +189,14 @@ class Rooms(Resource):
 
 class Lecturers(Resource):
     def get(self):
+        data = great_list["lecturers"]
+        if is_time_params_valid():
+            data = get_by_time_timetable(
+                request.args.get('starttime'),
+                request.args.get('endtime'),
+                great_list["lecturers"])
         # self.data = get_room_timetable(building.upper(), floor, room, lectures)
-        return {'data': great_list["lecturers"]}
+        return {'data': data}
 
 
 class ProfessorLecture(Resource):
