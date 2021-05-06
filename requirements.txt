@@ -2,5 +2,5 @@ flask
 flask-restful==0.3.7
 python-dotenv==0.10.0
 feedparser==5.2.1
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 gunicorn
